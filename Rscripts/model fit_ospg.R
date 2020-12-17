@@ -1,6 +1,6 @@
 # exploring data
 #ospg survival male
-ospg.model.data<- read_csv("ospg.data.csv")
+ospg.model.data<- read_csv("Data/ospg.data.csv")
 head(ospg.model.data)
 library(tidyverse)
 ggplot(data=ospg.model.data, aes(x= y.ospg.male))+geom_density()+theme_bw()
