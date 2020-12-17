@@ -1,0 +1,2197 @@
+sa2,SA2,sa2_name,state_code,state_name,ra_code_2011,ra_name_2011,ra5cat,ra4cat,SA2irsd,SA2irsad
+11001,101011001,Goulburn,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11002,101011002,Goulburn Region,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11003,101011003,Yass,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11004,101011004,Yass Region,1,New South Wales,11,Inner Regional Australia,2,2,5,5
+11005,101011005,Young,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11006,101011006,Young Region,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11007,101021007,Braidwood,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11008,101021008,Karabar,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11009,101021009,Queanbeyan,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11010,101021010,Queanbeyan - East,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11011,101021011,Queanbeyan Region,1,New South Wales,11,Inner Regional Australia,2,2,5,5
+11012,101021012,Queanbeyan West - Jerrabomberra,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11013,101031013,Bombala,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11014,101031014,Cooma,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11015,101031015,Cooma Region,1,New South Wales,12,Outer Regional Australia,3,3,3,3
+11016,101031016,Jindabyne - Berridale,1,New South Wales,12,Outer Regional Australia,3,3,4,4
+11017,101041017,Batemans Bay,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11018,101041018,Batemans Bay - South,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11019,101041019,Bega - Tathra,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11020,101041020,Bega-Eden Hinterland,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11021,101041021,Broulee - Tomakin,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11022,101041022,Deua - Wadbilliga,1,New South Wales,12,Outer Regional Australia,3,3,5,4
+11023,101041023,Eden,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11024,101041024,Eurobodalla Hinterland,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11025,101041025,Merimbula - Tura Beach,1,New South Wales,12,Outer Regional Australia,3,3,3,2
+11026,101041026,Moruya - Tuross Head,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11027,101041027,Narooma - Bermagui,1,New South Wales,12,Outer Regional Australia,3,3,2,1
+11028,102011028,Avoca Beach - Copacabana,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11029,102011029,Box Head - MacMasters Beach,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11030,102011030,Calga - Kulnura,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11031,102011031,Erina - Green Point,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11032,102011032,Gosford - Springfield,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11033,102011033,Kariong,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11034,102011034,Kincumber - Picketts Valley,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11035,102011035,Narara,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11036,102011036,Niagara Park - Lisarow,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11037,102011037,Point Clare - Koolewong,1,New South Wales,10,Major Cities of Australia,1,1,4,3
+11038,102011038,Saratoga - Davistown,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11039,102011039,Terrigal - North Avoca,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11040,102011040,Umina - Booker Bay - Patonga,1,New South Wales,10,Major Cities of Australia,1,1,2,1
+11041,102011041,Wamberal - Forresters Beach,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11042,102011042,Woy Woy - Blackwall,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11043,102011043,Wyoming,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11044,102021044,Bateau Bay - Killarney Vale,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11045,102021045,Blue Haven - San Remo,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11046,102021046,Budgewoi - Buff Point - Halekulani,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11047,102021047,Chittaway Bay - Tumbi Umbi,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11048,102021048,Gorokan - Kanwal - Charmhaven,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11049,102021049,Jilliby - Yarramalong,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11050,102021050,Lake Munmorah - Mannering Park,1,New South Wales,10,Major Cities of Australia,1,1,2,1
+11051,102021051,Ourimbah - Fountaindale,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11052,102021052,Summerland Point - Gwandalan,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11053,102021053,The Entrance,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11054,102021054,Toukley - Norah Head,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11055,102021055,Tuggerah - Kangy Angy,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11056,102021056,Warnervale - Wadalba,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11057,102021057,Wyong,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11058,103011058,Bathurst,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11059,103011059,Bathurst - East,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11060,103011060,Bathurst Region,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11061,103011061,Oberon,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11062,103021062,Condobolin,1,New South Wales,12,Outer Regional Australia,3,3,1,2
+11063,103021063,Cowra,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11064,103021064,Cowra Region,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11065,103021065,Forbes,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11066,103021066,Grenfell,1,New South Wales,12,Outer Regional Australia,3,3,1,2
+11067,103021067,Parkes (NSW),1,New South Wales,12,Outer Regional Australia,3,3,2,1
+11068,103021068,Parkes Region,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11069,103021069,West Wyalong,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11070,103031070,Lithgow,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11071,103031071,Lithgow Region,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11072,103031072,Mudgee,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11073,103031073,Mudgee Region - East,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11074,103031074,Mudgee Region - West,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11075,103031075,Wollangambe - Wollemi,1,New South Wales,12,Outer Regional Australia,3,3,,
+11076,103041076,Blayney,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11077,103041077,Orange,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11078,103041078,Orange - North,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11079,103041079,Orange Region,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11080,104011080,Grafton,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11081,104011081,Grafton Region,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11082,104011082,Maclean - Yamba - Iluka,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11083,104021083,Bellingen,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11084,104021084,Coffs Harbour - North,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11085,104021085,Coffs Harbour - South,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11086,104021086,Coramba - Nana Glen - Bucca,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11087,104021087,Dorrigo,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11088,104021088,Korora - Emerald Beach,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11089,104021089,Sawtell - Boambee,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11090,104021090,Urunga,1,New South Wales,12,Outer Regional Australia,3,3,2,1
+11091,104021091,Woolgoolga - Arrawarra,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11092,105011092,Bourke - Brewarrina,1,New South Wales,14,Very Remote Australia,5,4,1,1
+11093,105011093,Cobar,1,New South Wales,13,Remote Australia,4,4,2,2
+11094,105011094,Coonamble,1,New South Wales,13,Remote Australia,4,4,1,1
+11095,105011095,Nyngan - Warren,1,New South Wales,13,Remote Australia,4,4,1,1
+11096,105011096,Walgett - Lightning Ridge,1,New South Wales,13,Remote Australia,4,4,1,1
+11097,105021097,Broken Hill,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11098,105021098,Far West,1,New South Wales,14,Very Remote Australia,5,4,1,1
+11099,105031099,Coonabarabran,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11100,105031100,Dubbo - East,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11101,105031101,Dubbo - South,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11102,105031102,Dubbo - West,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11103,105031103,Dubbo Region,1,New South Wales,12,Outer Regional Australia,3,3,4,4
+11104,105031104,Gilgandra,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11105,105031105,Narromine,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11106,105031106,Wellington,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11107,106011107,Branxton - Greta - Pokolbin,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11108,106011108,Cessnock,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11109,106011109,Cessnock Region,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11110,106011110,Dungog,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11111,106011111,Kurri Kurri - Abermain,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11112,106011112,Singleton,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11113,106011113,Singleton Region,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11114,106021114,Maitland,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11115,106021115,Maitland - East,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11116,106021116,Maitland - North,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11117,106021117,Maitland - West,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11118,106021118,Thornton - Millers Forest,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11119,106031119,Anna Bay,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11120,106031120,Lemon Tree Passage - Tanilba Bay,1,New South Wales,11,Inner Regional Australia,2,2,2,1
+11121,106031121,Nelson Bay Peninsula,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11122,106031122,Raymond Terrace,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11123,106031123,Seaham - Woodville,1,New South Wales,11,Inner Regional Australia,2,2,5,4
+11124,106031124,Tea Gardens - Hawks Nest,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11125,106031125,Williamtown - Medowie - Karuah,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11126,106041126,Muswellbrook,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11127,106041127,Muswellbrook Region,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11128,106041128,Scone,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11129,106041129,Scone Region,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11130,107011130,Berkeley - Warrawong - Windang,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11131,107011131,Dapto - Avondale,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11132,107011132,Horsley - Kembla Grange,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11133,107011133,Port Kembla Industrial,1,New South Wales,10,Major Cities of Australia,1,1,,
+11134,107011134,Unanderra - Mount Kembla,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11135,107021135,Illawarra Catchment Reserve,1,New South Wales,11,Inner Regional Australia,2,2,,
+11136,107031136,Albion Park - Macquarie Pass,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11137,107031137,Albion Park Rail,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11138,107031138,Kiama,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11139,107031139,Kiama Downs - Minnamurra,1,New South Wales,11,Inner Regional Australia,2,2,5,4
+11140,107031140,Kiama Hinterland - Gerringong,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11141,107031141,Shellharbour - Flinders,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11142,107031142,Shellharbour - Oak Flats,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11143,107031143,Warilla,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11144,107041144,Balgownie - Fairy Meadow,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11145,107041145,Corrimal - Tarrawanna - Bellambi,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11146,107041146,Figtree - Keiraville,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11147,107041147,Helensburgh,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11148,107041148,Thirroul - Austinmer - Coalcliff,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11149,107041149,Wollongong,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11150,107041150,Woonona - Bulli - Russell Vale,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11151,108011151,Bulahdelah - Stroud,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11152,108011152,Forster,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11153,108011153,Forster-Tuncurry Region,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11154,108011154,Tuncurry,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11155,108021155,Kempsey,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11156,108021156,Kempsey Region,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11157,108021157,Macksville - Scotts Head,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11158,108021158,Nambucca Heads,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11159,108021159,Nambucca Heads Region,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11160,108021160,South West Rocks,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11161,108031161,Lord Howe Island,1,New South Wales,14,Very Remote Australia,5,4,4,3
+11162,108041162,Laurieton - Bonny Hills,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11163,108041163,Port Macquarie - East,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11164,108041164,Port Macquarie - West,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11165,108041165,Port Macquarie Region,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11166,108041166,Wauchope,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11167,108051167,Gloucester,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11168,108051168,Old Bar - Manning Point - Red Head,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11169,108051169,Taree,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11170,108051170,Taree Region,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11171,108051171,Wingham,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11172,109011172,Albury - East,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11173,109011173,Albury - North,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11174,109011174,Albury - South,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11175,109011175,Albury Region,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11176,109011176,Lavington,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11177,109021177,Hay,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11178,109021178,Wentworth - Buronga,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11179,109021179,Wentworth-Balranald Region,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11180,109031180,Corowa,1,New South Wales,11,Inner Regional Australia,2,2,2,1
+11181,109031181,Corowa Region,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11182,109031182,Deniliquin,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11183,109031183,Deniliquin Region,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11184,109031184,Moama,1,New South Wales,11,Inner Regional Australia,2,2,3,2
+11185,109031185,Tocumwal - Finley - Jerilderie,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11186,110011186,Armidale,1,New South Wales,11,Inner Regional Australia,2,2,2,3
+11187,110011187,Armidale Region - North,1,New South Wales,12,Outer Regional Australia,3,3,3,2
+11188,110011188,Armidale Region - South,1,New South Wales,12,Outer Regional Australia,3,3,3,3
+11189,110011189,Walcha,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11190,110021190,Glen Innes,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11191,110021191,Inverell,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11192,110021192,Inverell Region - East,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11193,110021193,Inverell Region - West,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11194,110021194,Tenterfield,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11195,110031195,Moree,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11196,110031196,Moree Region,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11197,110031197,Narrabri,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11198,110031198,Narrabri Region,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11199,110041199,Gunnedah,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11200,110041200,Gunnedah Region,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11201,110041201,Quirindi,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11202,110041202,Tamworth - East,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11203,110041203,Tamworth - North,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11204,110041204,Tamworth - West,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11205,110041205,Tamworth Region,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11206,111011206,Belmont - Bennetts Green,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11207,111011207,Belmont South - Blacksmiths,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11208,111011208,Charlestown - Dudley,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11209,111011209,Glendale - Cardiff - Hillsborough,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11210,111011210,Mount Hutton - Windale,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11211,111011211,Redhead,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11212,111011212,Swansea - Caves Beach,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11213,111011213,Valentine - Eleebana,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11214,111011214,Warners Bay - Boolaroo,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11215,111021215,Bolton Point - Teralba,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11216,111021216,Bonnells Bay - Silverwater,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11217,111021217,Edgeworth - Cameron Park,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11218,111021218,Morisset - Cooranbong,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11219,111021219,Toronto - Awaba,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11220,111021220,Wangi Wangi - Rathmines,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11221,111021221,West Wallsend - Barnsley - Killingworth,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11222,111031222,Adamstown - Kotara,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11223,111031223,Beresfield - Hexham,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11224,111031224,Hamilton - Broadmeadow,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11225,111031225,Lambton - New Lambton,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11226,111031226,Maryland - Fletcher - Minmi,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11227,111031227,Mayfield - Warabrook,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11228,111031228,Merewether - The Junction,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11229,111031229,Newcastle - Cooks Hill,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11230,111031230,Newcastle Port - Kooragang,1,New South Wales,10,Major Cities of Australia,1,1,3,2
+11231,111031231,Shortland - Jesmond,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11232,111031232,Stockton - Fullerton Cove,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11233,111031233,Wallsend - Elermore Vale,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11234,111031234,Waratah - North Lambton,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11235,111031235,Wickham - Carrington - Tighes Hill,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11236,112011236,Ballina,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11237,112011237,Ballina Region,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11238,112011238,Bangalow,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11239,112011239,Brunswick Heads - Ocean Shores,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11240,112011240,Byron Bay,1,New South Wales,11,Inner Regional Australia,2,2,2,3
+11241,112011241,Evans Head,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11242,112011242,Lennox Head - Skennars Head,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11243,112011243,Mullumbimby,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11244,112021244,Casino,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11245,112021245,Casino Region,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11246,112021246,Goonellabah,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11247,112021247,Kyogle,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11248,112021248,Lismore,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11249,112021249,Lismore Region,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11250,112031250,Kingscliff - Fingal Head,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11251,112031251,Murwillumbah,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11252,112031252,Murwillumbah Region,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11253,112031253,Pottsville,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11254,112031254,Tweed Heads,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11255,112031255,Tweed Heads - South,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11256,113011256,Griffith (NSW),1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11257,113011257,Griffith Region,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11258,113011258,Leeton,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11259,113011259,Narrandera,1,New South Wales,12,Outer Regional Australia,3,3,1,1
+11260,113021260,Tumbarumba,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11261,113021261,Tumut,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11262,113021262,Tumut Region,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11263,113031263,Cootamundra,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11264,113031264,Gundagai,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11265,113031265,Junee,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11266,113031266,Temora,1,New South Wales,12,Outer Regional Australia,3,3,2,2
+11267,113031267,Wagga Wagga - East,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11268,113031268,Wagga Wagga - North,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11269,113031269,Wagga Wagga - South,1,New South Wales,11,Inner Regional Australia,2,2,3,2
+11270,113031270,Wagga Wagga - West,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11271,113031271,Wagga Wagga Region,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11272,114011272,Berry - Kangaroo Valley,1,New South Wales,11,Inner Regional Australia,2,2,4,3
+11273,114011273,Callala Bay - Currarong,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11274,114011274,Culburra Beach,1,New South Wales,11,Inner Regional Australia,2,2,2,1
+11275,114011275,Ettrema - Sassafras - Budawang,1,New South Wales,11,Inner Regional Australia,2,2,,
+11276,114011276,Huskisson - Vincentia,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11277,114011277,North Nowra - Bomaderry,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11278,114011278,Nowra,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11279,114011279,St Georges Basin - Erowal Bay,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11280,114011280,Sussex Inlet - Berrara,1,New South Wales,11,Inner Regional Australia,2,2,1,1
+11281,114011281,Tomerong - Wandandian - Woollamia,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11282,114011282,Ulladulla,1,New South Wales,11,Inner Regional Australia,2,2,2,1
+11283,114011283,Ulladulla Region,1,New South Wales,11,Inner Regional Australia,2,2,2,2
+11284,114021284,Bowral,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11285,114021285,Hill Top - Colo Vale,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11286,114021286,Mittagong,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11287,114021287,Moss Vale - Berrima,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11288,114021288,Robertson - Fitzroy Falls,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11289,114021289,Southern Highlands,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11290,115011290,Baulkham Hills (East),1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11291,115011291,Baulkham Hills (West) - Bella Vista,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11292,115011292,Castle Hill,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11293,115011293,Cherrybrook,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11294,115011294,Glenhaven,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11295,115011295,Kellyville,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11296,115011296,West Pennant Hills,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11297,115021297,Dural - Kenthurst - Wisemans Ferry,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11298,115021298,Galston - Laughtondale,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11299,115031299,Bilpin - Colo - St Albans,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11300,115031300,Kurrajong Heights - Ebenezer,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11301,115041301,Pitt Town - McGraths Hill,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11302,115041302,Rouse Hill - Beaumont Hills,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11303,116011303,Blacktown (East) - Kings Park,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11304,116011304,Blacktown (North) - Marayong,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11305,116011305,Blacktown (South),1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11306,116011306,Doonside - Woodcroft,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11307,116011307,Lalor Park - Kings Langley,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11308,116011308,Seven Hills - Toongabbie,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11309,116021309,Glenwood,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11310,116021310,Parklea - Kellyville Ridge,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11311,116021311,Quakers Hill - Acacia Gardens,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11312,116021312,Riverstone - Marsden Park,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11313,116031313,Bidwill - Hebersham - Emerton,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11314,116031314,Glendenning Dean Park,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11315,116031315,Hassall Grove - Plumpton,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11316,116031316,Lethbridge Park - Tregear,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11317,116031317,Mount Druitt - Whalan,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11318,116031318,Prospect Reservoir,1,New South Wales,10,Major Cities of Australia,1,1,,
+11319,116031319,Rooty Hill - Minchinbury,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11320,117011320,Banksmeadow,1,New South Wales,10,Major Cities of Australia,1,1,,
+11321,117011321,Botany,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11322,117011322,Mascot - Eastlakes,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11323,117011323,Pagewood - Hillsdale - Daceyville,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11324,117011324,Port Botany Industrial,1,New South Wales,10,Major Cities of Australia,1,1,,
+11325,117011325,Sydney Airport,1,New South Wales,10,Major Cities of Australia,1,1,,
+11326,117021326,Marrickville,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11327,117021327,Petersham - Stanmore,1,New South Wales,10,Major Cities of Australia,1,1,4,5
+11328,117021328,Sydenham - Tempe - St Peters,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11329,117031329,Darlinghurst,1,New South Wales,10,Major Cities of Australia,1,1,4,5
+11330,117031330,Erskineville - Alexandria,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11331,117031331,Glebe - Forest Lodge,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11332,117031332,Newtown - Camperdown - Darlington,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11333,117031333,Potts Point - Woolloomooloo,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11334,117031334,Pyrmont - Ultimo,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11335,117031335,Redfern - Chippendale,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11336,117031336,Surry Hills,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11337,117031337,Sydney - Haymarket - The Rocks,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11338,117031338,Waterloo - Beaconsfield,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11339,118011339,Bondi - Tamarama - Bronte,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11340,118011340,Bondi Beach - North Bondi,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11341,118011341,Bondi Junction - Waverly,1,New South Wales,10,Major Cities of Australia,1,1,4,5
+11342,118011342,Centennial Park,1,New South Wales,10,Major Cities of Australia,1,1,,
+11343,118011343,Double Bay - Bellevue Hill,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11344,118011344,Dover Heights,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11345,118011345,Paddington - Moore Park,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11346,118011346,Rose Bay - Vaucluse - Watsons Bay,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11347,118011347,Woollahra,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11348,118021348,Coogee - Clovelly,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11349,118021349,Kensington - Kingsford,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11350,118021350,Malabar - La Perouse - Chifley,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11351,118021351,Maroubra,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11352,118021352,Randwick,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11353,119011353,Bankstown,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11354,119011354,Bass Hill - Georges Hall,1,New South Wales,10,Major Cities of Australia,1,1,1,2
+11355,119011355,Chullora,1,New South Wales,10,Major Cities of Australia,1,1,,
+11356,119011356,Condell Park,1,New South Wales,10,Major Cities of Australia,1,1,1,2
+11357,119011357,Greenacre - Mount Lewis,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11358,119011358,Padstow,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11359,119011359,Panania - Milperra - Picnic Point,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11360,119011360,Revesby,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11361,119011361,Yagoona - Birrong,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11362,119021362,Belmore - Belfield,1,New South Wales,10,Major Cities of Australia,1,1,1,2
+11363,119021363,Canterbury (South) - Campsie,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11364,119021364,Kingsgrove (North) - Earlwood,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11365,119021365,Lakemba - Wiley Park,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11366,119021366,Punchbowl,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11367,119021367,Roselands,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11368,119031368,Hurstville,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11369,119031369,Mortdale - Penshurst,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11370,119031370,Narwee - Beverly Hills,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11371,119031371,Oatley - Hurstville Grove,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11372,119031372,Peakhurst - Lugarno,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11373,119031373,Riverwood,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11374,119031374,South Hurstville - Blakehurst,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11375,119041375,Arncliffe - Bardwell Valley,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11376,119041376,Bexley,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11377,119041377,Kingsgrove (South) - Bardwell Park,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11378,119041378,Kogarah,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11379,119041379,Kogarah Bay - Carlton - Allawah,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11380,119041380,Monterey - Brighton-le-Sands - Kyeemagh,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11381,119041381,Rockdale - Banksia,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11382,119041382,Sans Souci - Ramsgate,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11383,120011383,Concord - Mortlake - Cabarita,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11384,120011384,Concord West - North Strathfield,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11385,120011385,Drummoyne - Rodd Point,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11386,120011386,Five Dock - Abbotsford,1,New South Wales,10,Major Cities of Australia,1,1,4,5
+11387,120021387,Balmain,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11388,120021388,Leichhardt - Annandale,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11389,120021389,Lilyfield - Rozelle,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11390,120031390,Ashfield,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11391,120031391,Burwood - Croydon,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11392,120031392,Canterbury (North) - Ashbury,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11393,120031393,Croydon Park - Enfield,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11394,120031394,Dulwich Hill - Lewisham,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11395,120031395,Haberfield - Summer Hill,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11396,120031396,Homebush,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11397,120031397,Strathfield,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11398,121011398,Chatswood (East) - Artarmon,1,New South Wales,10,Major Cities of Australia,1,1,4,5
+11399,121011399,Chatswood (West) - Lane Cove North,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11400,121011400,Lane Cove - Greenwich,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11401,121011401,St Leonards - Naremburn,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11402,121011402,Willoughby - Castle Cove - Northbridge,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11403,121021403,Asquith - Mount Colah,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11404,121021404,Berowra - Brooklyn - Cowan,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11405,121021405,Hornsby - Waitara,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11406,121021406,Normanhurst - Thornleigh - Westleigh,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11407,121031407,Gordon - Killara,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11408,121031408,Lindfield - Roseville,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11409,121031409,Pymble,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11410,121031410,St Ives,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11411,121031411,Turramurra,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11412,121031412,Wahroonga - Warrawee,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11413,121041413,Cremorne - Cammeray,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11414,121041414,Crows Nest - Waverton,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11415,121041415,Mosman,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11416,121041416,Neutral Bay - Kirribilli,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11417,121041417,North Sydney - Lavender Bay,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11418,122011418,Balgowlah - Clontarf - Seaforth,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11419,122011419,Manly - Fairlight,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11420,122021420,Avalon - Palm Beach,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11421,122021421,Bayview - Elanora Heights,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11422,122021422,Newport - Bilgola,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11423,122021423,Warriewood - Mona Vale,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11424,122031424,Beacon Hill - Narraweena,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11425,122031425,Cromer,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11426,122031426,Dee Why - North Curl Curl,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11427,122031427,Forestville - Killarney Heights,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11428,122031428,Frenchs Forest - Belrose,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11429,122031429,Freshwater - Brookvale,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11430,122031430,Manly Vale - Allambie Heights,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11431,122031431,Narrabeen - Collaroy,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11432,122031432,Terrey Hills - Duffys Forest,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11433,123011433,Camden - Ellis Lane,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11434,123011434,Elderslie - Harrington Park,1,New South Wales,10,Major Cities of Australia,1,1,4,5
+11435,123011435,Mount Annan - Currans Hill,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11436,123021436,Bradbury - Wedderburn,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11437,123021437,Campbelltown - Woodbine,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11438,123021438,Claymore - Eagle Vale - Raby,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11439,123021439,Holsworthy Military Area,1,New South Wales,10,Major Cities of Australia,1,1,,
+11440,123021440,Ingleburn - Denham Court,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11441,123021441,Leumeah - Minto Heights,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11442,123021442,Macquarie Fields - Glenfield,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11443,123021443,Minto - St Andrews,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11444,123021444,Rosemeadow - Glen Alpine,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11445,123031445,Bargo,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11446,123031446,Douglas Park - Appin,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11447,123031447,Picton - Tahmoor - Buxton,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11448,123031448,The Oaks - Oakdale,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11449,124011449,Blackheath - Megalong Valley,1,New South Wales,11,Inner Regional Australia,2,2,3,3
+11450,124011450,Blaxland - Warrimoo - Lapstone,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11451,124011451,Blue Mountains - North,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11452,124011452,Katoomba - Leura,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11453,124011453,Lawson - Hazelbrook - Linden,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11454,124011454,Springwood - Winmalee,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11455,124011455,Wentworth Falls,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11456,124021456,Blue Mountains - South,1,New South Wales,11,Inner Regional Australia,2,2,,
+11457,124031457,Cambridge Park,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11458,124031458,Castlereagh - Cranebrook,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11459,124031459,Emu Plains - Leonay,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11460,124031460,Glenmore Park - Regentville,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11461,124031461,Jamisontown - South Penrith,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11462,124031462,Kingswood - Werrington,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11463,124031463,Mulgoa - Luddenham - Orchard Hills,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11464,124031464,Penrith,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11465,124031465,Warragamba - Silverdale,1,New South Wales,11,Inner Regional Australia,2,2,4,4
+11466,124041466,Richmond - Clarendon,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11467,124041467,Windsor - Bligh Park,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11468,124041468,Yarramundi - Londonderry,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11469,124051469,Erskine Park,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11470,124051470,St Clair,1,New South Wales,10,Major Cities of Australia,1,1,4,3
+11471,124051471,St Marys - Colyton,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11472,125011472,Auburn,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11473,125011473,Homebush Bay - Silverwater,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11474,125011474,Lidcombe - Regents Park,1,New South Wales,10,Major Cities of Australia,1,1,1,2
+11475,125011475,Rookwood Cemetery,1,New South Wales,10,Major Cities of Australia,1,1,,
+11476,125021476,Carlingford,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11477,125021477,Ermington - Rydalmere,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11478,125021478,Oatlands - Dundas Valley,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11479,125031479,Chester Hill - Sefton,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11480,125031480,Fairfield - East,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11481,125031481,Granville - Clyde,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11482,125031482,Greystanes - Pemulwuy,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11483,125031483,Guildford - South Granville,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11484,125031484,Guildford West - Merrylands West,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11485,125031485,Merrylands - Holroyd,1,New South Wales,10,Major Cities of Australia,1,1,1,2
+11486,125031486,Smithfield Industrial,1,New South Wales,10,Major Cities of Australia,1,1,,
+11487,125031487,Yennora Industrial,1,New South Wales,10,Major Cities of Australia,1,1,,
+11488,125041488,Girraween - Westmead,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11489,125041489,North Parramatta,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11490,125041490,North Rocks,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11491,125041491,Northmead,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11492,125041492,Parramatta - Rosehill,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11493,125041493,Toongabbie - Constitution Hill,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11494,125041494,Winston Hills,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11495,126011495,Epping - North Epping,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11496,126011496,Pennant Hills - Cheltenham,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11497,126021497,Eastwood - Denistone,1,New South Wales,10,Major Cities of Australia,1,1,4,5
+11498,126021498,Gladesville - Huntleys Point,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11499,126021499,Hunters Hill - Woolwich,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11500,126021500,Macquarie Park - Marsfield,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11501,126021501,North Ryde - East Ryde,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11502,126021502,Ryde - Putney,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11503,126021503,West Ryde - Meadowbank,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11504,127011504,Ashcroft - Busby - Miller,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11505,127011505,Badgerys Creek - Greendale,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11506,127011506,Cobbitty - Leppington,1,New South Wales,10,Major Cities of Australia,1,1,3,3
+11507,127011507,Green Valley - Cecil Hills,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11508,127011508,Hoxton Park - Horningsea Park,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11509,127021509,Bonnyrigg Heights - Bonnyrigg,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11510,127021510,Bossley Park - Abbotsbury,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11511,127021511,Cabramatta - Lansvale,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11512,127021512,Cabramatta West - Mount Pritchard,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11513,127021513,Canley Vale - Canley Heights,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11514,127021514,Edensor Park,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11515,127021515,Fairfield,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11516,127021516,Fairfield - West,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11517,127021517,Greenfield Park - Prairiewood,1,New South Wales,10,Major Cities of Australia,1,1,1,2
+11518,127021518,Horsley Park - Kemps Creek,1,New South Wales,10,Major Cities of Australia,1,1,3,4
+11519,127021519,Smithfield - Wetherill Park,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11520,127021520,St Johns Park - Wakeley,1,New South Wales,10,Major Cities of Australia,1,1,1,2
+11521,127021521,Wetherill Park Industrial,1,New South Wales,10,Major Cities of Australia,1,1,,
+11522,127031522,Casula,1,New South Wales,10,Major Cities of Australia,1,1,2,3
+11523,127031523,Chipping Norton - Moorebank,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11524,127031524,Holsworthy - Wattle Grove,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11525,127031525,Liverpool - Warwick Farm,1,New South Wales,10,Major Cities of Australia,1,1,1,1
+11526,127031526,Prestons - Lurnea,1,New South Wales,10,Major Cities of Australia,1,1,2,2
+11527,128011527,Caringbah - Lilli Pilli,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11528,128011528,Cronulla - Kurnell - Bundeena,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11529,128011529,Gymea - Grays Point,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11530,128011530,Miranda - Yowie Bay,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11531,128011531,Sylvania - Taren Point,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+11532,128021532,Engadine - Loftus,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11533,128021533,Heathcote - Waterfall,1,New South Wales,10,Major Cities of Australia,1,1,5,4
+11534,128021534,Illawong - Alfords Point,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11535,128021535,Menai - Lucas Heights - Woronora,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11536,128021536,Oyster Bay - Como - Jannali,1,New South Wales,10,Major Cities of Australia,1,1,5,5
+11537,128021537,Royal National Park,1,New South Wales,11,Inner Regional Australia,2,2,,
+11538,128021538,Sutherland - Kirrawee,1,New South Wales,10,Major Cities of Australia,1,1,4,4
+21001,201011001,Alfredton,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21002,201011002,Ballarat,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21003,201011003,Ballarat - North,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21004,201011004,Ballarat - South,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21005,201011005,Buninyong,2,Victoria,21,Inner Regional Australia,2,2,5,4
+21006,201011006,Delacombe,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21007,201011007,Smythes Creek,2,Victoria,21,Inner Regional Australia,2,2,4,3
+21008,201011008,Wendouree - Miners Rest,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21009,201021009,Bacchus Marsh Region,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21010,201021010,Creswick - Clunes,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21011,201021011,Daylesford,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21012,201021012,Gordon (Vic.),2,Victoria,21,Inner Regional Australia,2,2,3,3
+21013,201031013,Avoca,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21014,201031014,Beaufort,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21015,201031015,Golden Plains - North,2,Victoria,21,Inner Regional Australia,2,2,3,2
+21016,201031016,Maryborough (Vic.),2,Victoria,21,Inner Regional Australia,2,2,1,1
+21017,201031017,Maryborough Region,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21018,202011018,Bendigo,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21019,202011019,California Gully - Eaglehawk,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21020,202011020,East Bendigo - Kennington,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21021,202011021,Flora Hill - Spring Gully,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21022,202011022,Kangaroo Flat - Golden Square,2,Victoria,21,Inner Regional Australia,2,2,2,1
+21023,202011023,Maiden Gully,2,Victoria,21,Inner Regional Australia,2,2,5,4
+21024,202011024,Strathfieldsaye,2,Victoria,21,Inner Regional Australia,2,2,5,5
+21025,202011025,White Hills - Ascot,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21026,202021026,Bendigo Region - South,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21027,202021027,Castlemaine,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21028,202021028,Castlemaine Region,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21029,202021029,Heathcote,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21030,202021030,Kyneton,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21031,202021031,Woodend,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21032,202031032,Bendigo Region - North,2,Victoria,21,Inner Regional Australia,2,2,3,2
+21033,202031033,Loddon,2,Victoria,22,Outer Regional Australia,3,3,1,1
+21034,203011034,Bannockburn,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21035,203011035,Golden Plains - South,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21036,203011036,Winchelsea,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21037,203021037,Belmont,2,Victoria,20,Major Cities of Australia,1,1,3,2
+21038,203021038,Corio - Norlane,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21039,203021039,Geelong,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21040,203021040,Geelong West - Hamlyn Heights,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21041,203021041,Grovedale,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21042,203021042,Highton,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21043,203021043,Lara,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21044,203021044,Leopold,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21045,203021045,Newcomb - Moolap,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21046,203021046,Newtown (Vic.),2,Victoria,20,Major Cities of Australia,1,1,4,4
+21047,203021047,North Geelong - Bell Park,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21048,203031048,Clifton Springs,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21049,203031049,Lorne - Anglesea,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21050,203031050,Ocean Grove - Barwon Heads,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21051,203031051,Portarlington,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21052,203031052,Queenscliff,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21053,203031053,Torquay,2,Victoria,21,Inner Regional Australia,2,2,5,5
+21054,204011054,Alexandra,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21055,204011055,Euroa,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21056,204011056,Kilmore - Broadford,2,Victoria,21,Inner Regional Australia,2,2,3,2
+21057,204011057,Mansfield (Vic.),2,Victoria,22,Outer Regional Australia,3,3,3,3
+21058,204011058,Nagambie,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21059,204011059,Seymour,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21060,204011060,Seymour Region,2,Victoria,21,Inner Regional Australia,2,2,4,3
+21061,204011061,Upper Yarra Valley,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21062,204011062,Yea,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21063,204021063,Benalla,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21064,204021064,Benalla Region,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21065,204021065,Rutherglen,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21066,204021066,Wangaratta,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21067,204021067,Wangaratta Region,2,Victoria,21,Inner Regional Australia,2,2,4,3
+21068,204031068,Beechworth,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21069,204031069,Bright - Mount Beauty,2,Victoria,22,Outer Regional Australia,3,3,3,3
+21070,204031070,Chiltern - Indigo Valley,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21071,204031071,Myrtleford,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21072,204031072,Towong,2,Victoria,22,Outer Regional Australia,3,3,3,3
+21073,204031073,West Wodonga,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21074,204031074,Wodonga,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21075,204031075,Yackandandah,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21076,205011076,Drouin,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21077,205011077,Mount Baw Baw Region,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21078,205011078,Trafalgar (Vic.),2,Victoria,21,Inner Regional Australia,2,2,3,3
+21079,205011079,Warragul,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21080,205021080,Alps - East,2,Victoria,22,Outer Regional Australia,3,3,,
+21081,205021081,Bairnsdale,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21082,205021082,Bruthen - Omeo,2,Victoria,22,Outer Regional Australia,3,3,3,2
+21083,205021083,Lake King,2,Victoria,22,Outer Regional Australia,3,3,,
+21084,205021084,Lakes Entrance,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21085,205021085,Orbost,2,Victoria,22,Outer Regional Australia,3,3,1,1
+21086,205021086,Paynesville,2,Victoria,22,Outer Regional Australia,3,3,3,2
+21087,205031087,Foster,2,Victoria,21,Inner Regional Australia,2,2,3,2
+21088,205031088,French Island,2,Victoria,22,Outer Regional Australia,3,3,3,3
+21089,205031089,Korumburra,2,Victoria,21,Inner Regional Australia,2,2,3,2
+21090,205031090,Leongatha,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21091,205031091,Phillip Island,2,Victoria,21,Inner Regional Australia,2,2,3,2
+21092,205031092,Wilsons Promontory,2,Victoria,22,Outer Regional Australia,3,3,,
+21093,205031093,Wonthaggi - Inverloch,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21094,205041094,Churchill,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21095,205041095,Moe - Newborough,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21096,205041096,Morwell,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21097,205041097,Traralgon,2,Victoria,21,Inner Regional Australia,2,2,3,2
+21098,205041098,Yallourn North - Glengarry,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21099,205051099,Alps - West,2,Victoria,22,Outer Regional Australia,3,3,,
+21100,205051100,Longford - Loch Sport,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21101,205051101,Maffra,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21102,205051102,Rosedale,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21103,205051103,Sale,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21104,205051104,Yarram,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21105,206011105,Brunswick,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21106,206011106,Brunswick East,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21107,206011107,Brunswick West,2,Victoria,20,Major Cities of Australia,1,1,3,4
+21108,206011108,Coburg,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21109,206011109,Pascoe Vale South,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21110,206021110,Alphington - Fairfield,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21111,206021111,Northcote,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21112,206021112,Thornbury,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21113,206031113,Ascot Vale,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21114,206031114,Essendon - Aberfeldie,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21115,206031115,Flemington,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21116,206031116,Moonee Ponds,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21117,206041117,Carlton,2,Victoria,20,Major Cities of Australia,1,1,1,2
+21118,206041118,Docklands,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21119,206041119,East Melbourne,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21120,206041120,Flemington Racecourse,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21121,206041121,Kensington,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21122,206041122,Melbourne,2,Victoria,20,Major Cities of Australia,1,1,3,4
+21123,206041123,North Melbourne,2,Victoria,20,Major Cities of Australia,1,1,2,3
+21124,206041124,Parkville,2,Victoria,20,Major Cities of Australia,1,1,4,5
+21125,206041125,South Yarra - West,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21126,206041126,Southbank,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21127,206041127,West Melbourne,2,Victoria,20,Major Cities of Australia,1,1,,
+21128,206051128,Albert Park,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21129,206051129,Elwood,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21130,206051130,Port Melbourne,2,Victoria,20,Major Cities of Australia,1,1,4,5
+21131,206051131,Port Melbourne Industrial,2,Victoria,20,Major Cities of Australia,1,1,,
+21132,206051132,South Melbourne,2,Victoria,20,Major Cities of Australia,1,1,3,4
+21133,206051133,St Kilda,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21134,206051134,St Kilda East,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21135,206061135,Armadale,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21136,206061136,Prahran - Windsor,2,Victoria,20,Major Cities of Australia,1,1,4,5
+21137,206061137,South Yarra - East,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21138,206061138,Toorak,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21139,206071139,Abbotsford,2,Victoria,20,Major Cities of Australia,1,1,4,5
+21140,206071140,Carlton North - Princes Hill,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21141,206071141,Collingwood,2,Victoria,20,Major Cities of Australia,1,1,1,2
+21142,206071142,Fitzroy,2,Victoria,20,Major Cities of Australia,1,1,2,3
+21143,206071143,Fitzroy North,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21144,206071144,Richmond (Vic.),2,Victoria,20,Major Cities of Australia,1,1,3,4
+21145,206071145,Yarra - North,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21146,207011146,Ashburton (Vic.),2,Victoria,20,Major Cities of Australia,1,1,4,5
+21147,207011147,Balwyn,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21148,207011148,Balwyn North,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21149,207011149,Camberwell,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21150,207011150,Glen Iris - East,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21151,207011151,Hawthorn,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21152,207011152,Hawthorn East,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21153,207011153,Kew,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21154,207011154,Kew East,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21155,207011155,Surrey Hills (West) - Canterbury,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21156,207021156,Bulleen,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21157,207021157,Doncaster,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21158,207021158,Doncaster East,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21159,207021159,Templestowe,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21160,207021160,Templestowe Lower,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21161,207031161,Blackburn,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21162,207031162,Blackburn South,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21163,207031163,Box Hill,2,Victoria,20,Major Cities of Australia,1,1,3,4
+21164,207031164,Box Hill North,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21165,207031165,Burwood,2,Victoria,20,Major Cities of Australia,1,1,3,4
+21166,207031166,Burwood East,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21167,207031167,Surrey Hills (East) - Mont Albert,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21168,208011168,Beaumaris,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21169,208011169,Brighton (Vic.),2,Victoria,20,Major Cities of Australia,1,1,5,5
+21170,208011170,Brighton East,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21171,208011171,Cheltenham - Highett (West),2,Victoria,20,Major Cities of Australia,1,1,4,4
+21172,208011172,Hampton,2,Victoria,20,Major Cities of Australia,1,1,4,5
+21173,208011173,Sandringham - Black Rock,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21174,208021174,Bentleigh - McKinnon,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21175,208021175,Bentleigh East,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21176,208021176,Carnegie,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21177,208021177,Caulfield - North,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21178,208021178,Caulfield - South,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21179,208021179,Elsternwick,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21180,208021180,Hughesdale,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21181,208021181,Murrumbeena,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21182,208021182,Ormond - Glen Huntly,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21183,208031183,Aspendale Gardens - Waterways,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21184,208031184,Braeside,2,Victoria,20,Major Cities of Australia,1,1,,
+21185,208031185,Carrum - Patterson Lakes,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21186,208031186,Chelsea - Bonbeach,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21187,208031187,Chelsea Heights,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21188,208031188,Cheltenham - Highett (East),2,Victoria,20,Major Cities of Australia,1,1,4,4
+21189,208031189,Edithvale - Aspendale,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21190,208031190,Mentone,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21191,208031191,Moorabbin - Heatherton,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21192,208031192,Moorabbin Airport,2,Victoria,20,Major Cities of Australia,1,1,,
+21193,208031193,Mordialloc - Parkdale,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21194,208041194,Malvern - Glen Iris,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21195,208041195,Malvern East,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21196,209011196,Bundoora - East,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21197,209011197,Greensborough,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21198,209011198,Heidelberg - Rosanna,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21199,209011199,Heidelberg West,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21200,209011200,Ivanhoe,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21201,209011201,Ivanhoe East - Eaglemont,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21202,209011202,Montmorency - Briar Hill,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21203,209011203,Viewbank - Yallambie,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21204,209011204,Watsonia,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21205,209021205,Kingsbury,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21206,209021206,Preston,2,Victoria,20,Major Cities of Australia,1,1,2,3
+21207,209021207,Reservoir - East,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21208,209021208,Reservoir - West,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21209,209031209,Eltham,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21210,209031210,Hurstbridge,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21211,209031211,Kinglake,2,Victoria,21,Inner Regional Australia,2,2,4,3
+21212,209031212,Panton Hill - St Andrews,2,Victoria,21,Inner Regional Australia,2,2,5,5
+21213,209031213,Plenty - Yarrambat,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21214,209031214,Research - North Warrandyte,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21215,209031215,Wattle Glen - Diamond Creek,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21216,209041216,Bundoora - North,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21217,209041217,Bundoora - West,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21218,209041218,Epping,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21219,209041219,Lalor,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21220,209041220,Mill Park - North,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21221,209041221,Mill Park - South,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21222,209041222,South Morang,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21223,209041223,Thomastown,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21224,209041224,Wallan,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21225,209041225,Whittlesea,2,Victoria,21,Inner Regional Australia,2,2,4,3
+21226,210011226,Airport West,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21227,210011227,Essendon Airport,2,Victoria,20,Major Cities of Australia,1,1,,
+21228,210011228,Keilor,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21229,210011229,Keilor East,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21230,210011230,Niddrie - Essendon West,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21231,210011231,Strathmore,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21232,210021232,Gisborne,2,Victoria,21,Inner Regional Australia,2,2,5,5
+21233,210021233,Macedon,2,Victoria,21,Inner Regional Australia,2,2,5,5
+21234,210021234,Riddells Creek,2,Victoria,21,Inner Regional Australia,2,2,5,5
+21235,210021235,Romsey,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21236,210031236,Coburg North,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21237,210031237,Fawkner,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21238,210031238,Glenroy - Hadfield,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21239,210031239,Pascoe Vale,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21240,210041240,Sunbury,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21241,210041241,Sunbury - South,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21242,210051242,Broadmeadows,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21243,210051243,Campbellfield - Coolaroo,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21244,210051244,Craigieburn - Mickleham,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21245,210051245,Gladstone Park - Westmeadows,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21246,210051246,Greenvale - Bulla,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21247,210051247,Meadow Heights,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21248,210051248,Melbourne Airport,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21249,210051249,Roxburgh Park - Somerton,2,Victoria,20,Major Cities of Australia,1,1,1,2
+21250,210051250,Tullamarine,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21251,211011251,Bayswater,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21252,211011252,Boronia - The Basin,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21253,211011253,Ferntree Gully,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21254,211011254,Knoxfield - Scoresby,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21255,211011255,Lysterfield,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21256,211011256,Rowville - Central,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21257,211011257,Rowville - North,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21258,211011258,Rowville - South,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21259,211011259,Wantirna,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21260,211011260,Wantirna South,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21261,211021261,Donvale - Park Orchards,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21262,211021262,Warrandyte - Wonga Park,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21263,211031263,Bayswater North,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21264,211031264,Croydon,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21265,211031265,Croydon Hills - Warranwood,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21266,211031266,Ringwood,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21267,211031267,Ringwood East,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21268,211031268,Ringwood North,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21269,211041269,Forest Hill,2,Victoria,20,Major Cities of Australia,1,1,3,4
+21270,211041270,Mitcham (Vic.),2,Victoria,20,Major Cities of Australia,1,1,4,4
+21271,211041271,Nunawading,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21272,211041272,Vermont,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21273,211041273,Vermont South,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21274,211051274,Belgrave - Selby,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21275,211051275,Chirnside Park,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21276,211051276,Healesville - Yarra Glen,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21277,211051277,Kilsyth,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21278,211051278,Lilydale - Coldstream,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21279,211051279,Monbulk - Silvan,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21280,211051280,Montrose,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21281,211051281,Mooroolbark,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21282,211051282,Mount Dandenong - Olinda,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21283,211051283,Mount Evelyn,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21284,211051284,Upwey - Tecoma,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21285,211051285,Wandin - Seville,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21286,211051286,Yarra Valley,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21287,212011287,Beaconsfield - Officer,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21288,212011288,Bunyip - Garfield,2,Victoria,21,Inner Regional Australia,2,2,4,3
+21289,212011289,Emerald - Cockatoo,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21290,212011290,Koo Wee Rup,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21291,212011291,Pakenham - North,2,Victoria,20,Major Cities of Australia,1,1,3,2
+21292,212011292,Pakenham - South,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21293,212021293,Berwick - North,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21294,212021294,Berwick - South,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21295,212021295,Doveton,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21296,212021296,Endeavour Hills,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21297,212021297,Hallam,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21298,212021298,Narre Warren,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21299,212021299,Narre Warren North,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21300,212031300,Cranbourne,2,Victoria,20,Major Cities of Australia,1,1,2,1
+21301,212031301,Cranbourne East,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21302,212031302,Cranbourne North,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21303,212031303,Cranbourne South,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21304,212031304,Cranbourne West,2,Victoria,20,Major Cities of Australia,1,1,2,1
+21305,212031305,Hampton Park - Lynbrook,2,Victoria,20,Major Cities of Australia,1,1,2,1
+21306,212031306,Lynbrook - Lyndhurst,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21307,212031307,Narre Warren South,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21309,212041309,Clarinda - Oakleigh South,2,Victoria,20,Major Cities of Australia,1,1,2,3
+21310,212041310,Clayton South,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21311,212041311,Dandenong,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21312,212041312,Dandenong North,2,Victoria,20,Major Cities of Australia,1,1,1,2
+21313,212041313,Dingley Village,2,Victoria,20,Major Cities of Australia,1,1,5,4
+21314,212041314,Keysborough,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21315,212041315,Noble Park,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21316,212041316,Noble Park North,2,Victoria,20,Major Cities of Australia,1,1,1,2
+21317,212041317,Springvale,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21318,212041318,Springvale South,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21319,212051319,Ashwood - Chadstone,2,Victoria,20,Major Cities of Australia,1,1,3,4
+21320,212051320,Clayton,2,Victoria,20,Major Cities of Australia,1,1,2,3
+21321,212051321,Glen Waverley - East,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21322,212051322,Glen Waverley - West,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21323,212051323,Mount Waverley - North,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21324,212051324,Mount Waverley - South,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21325,212051325,Mulgrave,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21326,212051326,Oakleigh - Huntingdale,2,Victoria,20,Major Cities of Australia,1,1,3,4
+21327,212051327,Wheelers Hill,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21328,213011328,Ardeer - Albion,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21329,213011329,Cairnlea,2,Victoria,20,Major Cities of Australia,1,1,2,3
+21330,213011330,Deer Park - Derrimut,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21331,213011331,Delahey,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21332,213011332,Keilor Downs,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21333,213011333,Kings Park (Vic.),2,Victoria,20,Major Cities of Australia,1,1,1,1
+21334,213011334,St Albans - North,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21335,213011335,St Albans - South,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21336,213011336,Sunshine,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21337,213011337,Sunshine North,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21338,213011338,Sunshine West,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21339,213011339,Sydenham,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21340,213011340,Taylors Lakes,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21341,213021341,Altona,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21342,213021342,Altona Meadows,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21343,213021343,Altona North,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21344,213021344,Newport,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21345,213021345,Seabrook,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21346,213021346,Williamstown,2,Victoria,20,Major Cities of Australia,1,1,4,5
+21347,213031347,Braybrook,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21348,213031348,Footscray,2,Victoria,20,Major Cities of Australia,1,1,1,2
+21349,213031349,Maribyrnong,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21350,213031350,Seddon - Kingsville,2,Victoria,20,Major Cities of Australia,1,1,3,4
+21351,213031351,West Footscray - Tottenham,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21352,213031352,Yarraville,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21353,213041353,Bacchus Marsh,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21354,213041354,Caroline Springs,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21355,213041355,Hillside,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21356,213041356,Melton,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21357,213041357,Melton South,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21358,213041358,Melton West,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21359,213041359,Rockbank - Mount Cottrell,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21360,213041360,Taylors Hill,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21361,213051361,Hoppers Crossing - North,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21362,213051362,Hoppers Crossing - South,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21363,213051363,Laverton,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21364,213051364,Point Cook,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21365,213051365,Tarneit,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21366,213051366,Truganina,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21367,213051367,Werribee,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21368,213051368,Werribee - South,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21369,213051369,Wyndham Vale,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21370,214011370,Carrum Downs,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21371,214011371,Frankston,2,Victoria,20,Major Cities of Australia,1,1,2,2
+21372,214011372,Frankston North,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21373,214011373,Frankston South,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21374,214011374,Langwarrin,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21375,214011375,Seaford (Vic.),2,Victoria,20,Major Cities of Australia,1,1,2,2
+21376,214011376,Skye - Sandhurst,2,Victoria,20,Major Cities of Australia,1,1,4,4
+21377,214021377,Dromana,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21378,214021378,Flinders,2,Victoria,21,Inner Regional Australia,2,2,5,5
+21380,214021380,Mornington,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21381,214021381,Mount Eliza,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21382,214021382,Mount Martha,2,Victoria,20,Major Cities of Australia,1,1,5,5
+21383,214021383,Point Nepean,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21384,214021384,Rosebud - McCrae,2,Victoria,20,Major Cities of Australia,1,1,1,1
+21385,214021385,Somerville,2,Victoria,20,Major Cities of Australia,1,1,4,3
+21386,215011386,Ararat,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21387,215011387,Ararat Region,2,Victoria,22,Outer Regional Australia,3,3,3,3
+21388,215011388,Horsham,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21389,215011389,Horsham Region,2,Victoria,22,Outer Regional Australia,3,3,4,4
+21390,215011390,Nhill Region,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21391,215011391,St Arnaud,2,Victoria,22,Outer Regional Australia,3,3,1,1
+21392,215011392,Stawell,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21393,215011393,West Wimmera,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21394,215011394,Yarriambiack,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21395,215021395,Irymple,2,Victoria,22,Outer Regional Australia,3,3,3,3
+21396,215021396,Merbein,2,Victoria,22,Outer Regional Australia,3,3,1,1
+21397,215021397,Mildura,2,Victoria,22,Outer Regional Australia,3,3,1,1
+21398,215021398,Mildura Region,2,Victoria,22,Outer Regional Australia,3,3,3,2
+21399,215021399,Red Cliffs,2,Victoria,22,Outer Regional Australia,3,3,1,1
+21400,215031400,Buloke,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21401,215031401,Gannawarra,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21402,215031402,Kerang,2,Victoria,22,Outer Regional Australia,3,3,1,1
+21403,215031403,Robinvale,2,Victoria,22,Outer Regional Australia,3,3,1,1
+21404,215031404,Swan Hill,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21405,215031405,Swan Hill Region,2,Victoria,22,Outer Regional Australia,3,3,2,2
+21406,216011406,Echuca,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21407,216011407,Kyabram,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21408,216011408,Lockington - Gunbower,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21409,216011409,Rochester,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21410,216011410,Rushworth,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21411,216021411,Cobram,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21412,216021412,Moira,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21413,216021413,Numurkah,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21414,216021414,Yarrawonga,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21415,216031415,Mooroopna,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21416,216031416,Shepparton - North,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21417,216031417,Shepparton - South,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21418,216031418,Shepparton Region - East,2,Victoria,21,Inner Regional Australia,2,2,4,4
+21419,216031419,Shepparton Region - West,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21420,217011420,Glenelg (Vic.),2,Victoria,22,Outer Regional Australia,3,3,2,2
+21421,217011421,Hamilton (Vic.),2,Victoria,21,Inner Regional Australia,2,2,2,2
+21422,217011422,Portland,2,Victoria,22,Outer Regional Australia,3,3,1,1
+21423,217011423,Southern Grampians,2,Victoria,22,Outer Regional Australia,3,3,3,3
+21424,217021424,Camperdown,2,Victoria,21,Inner Regional Australia,2,2,2,1
+21425,217021425,Colac,2,Victoria,21,Inner Regional Australia,2,2,1,1
+21426,217021426,Colac Region,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21427,217021427,Corangamite - North,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21428,217021428,Corangamite - South,2,Victoria,22,Outer Regional Australia,3,3,3,3
+21429,217021429,Moyne - East,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21430,217021430,Moyne - West,2,Victoria,21,Inner Regional Australia,2,2,3,3
+21432,217021432,Warrnambool - North,2,Victoria,21,Inner Regional Australia,2,2,2,2
+21433,217021433,Warrnambool - South,2,Victoria,21,Inner Regional Australia,2,2,3,2
+31001,301011001,Alexandra Hills,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31002,301011002,Belmont - Gumdale,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31003,301011003,Birkdale,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31004,301011004,Capalaba,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31005,301011005,Thorneside,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31006,301011006,Wellington Point,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31007,301021007,Cleveland,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31008,301021008,Ormiston,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31009,301021009,Redland Bay,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31010,301021010,Redland Islands,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31011,301021011,Sheldon - Mount Cotton,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31012,301021012,Thornlands,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31014,301031014,Brisbane Port - Lytton,3,Queensland,30,Major Cities of Australia,1,1,,
+31015,301031015,Manly - Lota,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31016,301031016,Manly West,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31017,301031017,Murarrie,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31018,301031018,Tingalpa,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31019,301031019,Wakerley,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31020,301031020,Wynnum,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31021,301031021,Wynnum West - Hemmant,3,Queensland,30,Major Cities of Australia,1,1,2,3
+31022,302011022,Bald Hills,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31023,302011023,Bridgeman Downs,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31024,302011024,Carseldine,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31025,302011025,Everton Park,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31026,302011026,McDowall,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31027,302021027,Aspley,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31028,302021028,Chermside,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31029,302021029,Chermside West,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31030,302021030,Geebung,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31031,302021031,Kedron - Gordon Park,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31032,302021032,Stafford,3,Queensland,30,Major Cities of Australia,1,1,2,3
+31033,302021033,Stafford Heights,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31034,302021034,Wavell Heights,3,Queensland,30,Major Cities of Australia,1,1,5,4
+31035,302031035,Boondall,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31036,302031036,Brisbane Airport,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31037,302031037,Eagle Farm - Pinkenba,3,Queensland,30,Major Cities of Australia,1,1,2,1
+31038,302031038,Northgate - Virginia,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31039,302031039,Nudgee - Banyo,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31040,302031040,Nundah,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31041,302041041,Bracken Ridge,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31042,302041042,Brighton (Qld),3,Queensland,30,Major Cities of Australia,1,1,3,3
+31043,302041043,Deagon,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31044,302041044,Sandgate - Shorncliffe,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31045,302041045,Taigum - Fitzgibbon,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31046,302041046,Zillmere,3,Queensland,30,Major Cities of Australia,1,1,1,2
+31047,303011047,Camp Hill,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31048,303011048,Cannon Hill,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31049,303011049,Carina,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31050,303011050,Carina Heights,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31051,303011051,Carindale,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31052,303021052,Annerley,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31053,303021053,Coorparoo,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31054,303021054,Fairfield - Dutton Park,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31055,303021055,Greenslopes,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31056,303021056,Holland Park,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31057,303021057,Holland Park West,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31058,303021058,Woolloongabba,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31059,303021059,Yeronga,3,Queensland,30,Major Cities of Australia,1,1,4,5
+31060,303031060,Eight Mile Plains,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31061,303031061,Macgregor (Qld),3,Queensland,30,Major Cities of Australia,1,1,3,4
+31062,303031062,Mansfield (Qld),3,Queensland,30,Major Cities of Australia,1,1,4,4
+31063,303031063,Mount Gravatt,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31064,303031064,Rochedale - Burbank,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31065,303031065,Upper Mount Gravatt,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31066,303031066,Wishart,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31067,303041067,Coopers Plains,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31068,303041068,Moorooka,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31069,303041069,Robertson,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31070,303041070,Salisbury - Nathan,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31071,303041071,Tarragindi,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31072,303051072,Algester,3,Queensland,30,Major Cities of Australia,1,1,4,3
+31073,303051073,Calamvale - Stretton,3,Queensland,30,Major Cities of Australia,1,1,4,5
+31074,303051074,Pallara - Willawong,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31075,303051075,Parkinson - Drewvale,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31076,303051076,Rocklea - Acacia Ridge,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31077,303061077,Kuraby,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31078,303061078,Runcorn,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31079,303061079,Sunnybank,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31080,303061080,Sunnybank Hills,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31081,304011081,Jindalee - Mount Ommaney,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31082,304011082,Middle Park - Jamboree Heights,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31083,304011083,Riverhills,3,Queensland,30,Major Cities of Australia,1,1,5,4
+31084,304011084,Seventeen Mile Rocks - Sinnamon Park,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31085,304011085,Westlake,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31086,304021086,Bellbowrie - Moggill,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31087,304021087,Brookfield - Kenmore Hills,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31088,304021088,Chapel Hill,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31089,304021089,Fig Tree Pocket,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31090,304021090,Kenmore,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31091,304021091,Pinjarra Hills - Pullenvale,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31092,304031092,Chelmer - Graceville,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31093,304031093,Corinda,3,Queensland,30,Major Cities of Australia,1,1,4,5
+31094,304031094,Indooroopilly,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31095,304031095,Sherwood,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31096,304031096,St Lucia,3,Queensland,30,Major Cities of Australia,1,1,4,5
+31097,304031097,Taringa,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31098,304041098,Enoggera,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31099,304041099,Enoggera Reservoir,3,Queensland,31,Inner Regional Australia,2,2,,
+31100,304041100,Keperra,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31101,304041101,Mitchelton,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31102,304041102,Mount Coot-tha,3,Queensland,30,Major Cities of Australia,1,1,,
+31103,304041103,The Gap,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31104,304041104,Upper Kedron - Ferny Grove,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31105,305011105,Brisbane City,3,Queensland,30,Major Cities of Australia,1,1,4,5
+31106,305011106,Fortitude Valley,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31107,305011107,Highgate Hill,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31108,305011108,Kangaroo Point,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31109,305011109,New Farm,3,Queensland,30,Major Cities of Australia,1,1,4,5
+31110,305011110,South Brisbane,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31111,305011111,Spring Hill,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31112,305011112,West End,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31113,305021113,Balmoral,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31114,305021114,Bulimba,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31115,305021115,East Brisbane,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31116,305021116,Hawthorne,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31117,305021117,Morningside - Seven Hills,3,Queensland,30,Major Cities of Australia,1,1,4,5
+31118,305021118,Norman Park,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31119,305031119,Albion,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31120,305031120,Alderley,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31121,305031121,Ascot,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31122,305031122,Clayfield,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31123,305031123,Grange,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31124,305031124,Hamilton (Qld),3,Queensland,30,Major Cities of Australia,1,1,5,5
+31125,305031125,Hendra,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31126,305031126,Kelvin Grove - Herston,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31127,305031127,Newmarket,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31128,305031128,Newstead - Bowen Hills,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31129,305031129,Wilston,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31130,305031130,Windsor,3,Queensland,30,Major Cities of Australia,1,1,4,5
+31131,305031131,Wooloowin - Lutwyche,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31132,305041132,Ashgrove,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31133,305041133,Auchenflower,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31134,305041134,Bardon,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31135,305041135,Paddington - Milton,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31136,305041136,Red Hill (Qld),3,Queensland,30,Major Cities of Australia,1,1,5,5
+31137,305041137,Toowong,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31138,306011138,Brinsmead,3,Queensland,32,Outer Regional Australia,3,3,5,5
+31139,306011139,Clifton Beach - Kewarra Beach,3,Queensland,32,Outer Regional Australia,3,3,4,4
+31140,306011140,Freshwater - Stratford,3,Queensland,32,Outer Regional Australia,3,3,4,4
+31141,306011141,Redlynch,3,Queensland,32,Outer Regional Australia,3,3,5,4
+31142,306011142,Trinity Beach - Smithfield,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31143,306011143,Yorkeys Knob - Machans Beach,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31144,306021144,Bentley Park,3,Queensland,32,Outer Regional Australia,3,3,3,2
+31145,306021145,Cairns City,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31146,306021146,Earlville - Bayview Heights,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31147,306021147,Edmonton,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31148,306021148,Gordonvale - Trinity,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31149,306021149,Kanimbla - Mooroobool,3,Queensland,32,Outer Regional Australia,3,3,2,3
+31150,306021150,Lamb Range,3,Queensland,32,Outer Regional Australia,3,3,,
+31151,306021151,Manoora,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31152,306021152,Manunda,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31153,306021153,Mount Sheridan,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31154,306021154,Westcourt - Bungalow,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31155,306021155,White Rock,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31156,306021156,Whitfield - Edge Hill,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31157,306021157,Woree,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31158,306031158,Babinda,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31159,306031159,Innisfail,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31160,306031160,Johnstone,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31161,306031161,Tully,3,Queensland,32,Outer Regional Australia,3,3,2,1
+31162,306031162,Wooroonooran,3,Queensland,32,Outer Regional Australia,3,3,,
+31163,306031163,Yarrabah,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31164,306041164,Daintree,3,Queensland,32,Outer Regional Australia,3,3,2,1
+31165,306041165,Port Douglas,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31166,306051166,Atherton,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31167,306051167,Herberton,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31168,306051168,Kuranda,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31169,306051169,Malanda - Yungaburra,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31170,306051170,Mareeba,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31171,307011171,Balonne,3,Queensland,33,Remote Australia,4,4,2,2
+31172,307011172,Chinchilla,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31173,307011173,Goondiwindi,3,Queensland,32,Outer Regional Australia,3,3,3,2
+31174,307011174,Inglewood - Waggamba,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31175,307011175,Miles - Wandoan,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31176,307011176,Roma,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31177,307011177,Roma Region,3,Queensland,33,Remote Australia,4,4,3,3
+31178,307011178,Tara,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31179,307021179,Crows Nest - Rosalie,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31180,307021180,Jondaryan,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31181,307021181,Millmerran,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31182,307021182,Pittsworth,3,Queensland,31,Inner Regional Australia,2,2,3,2
+31183,307021183,Wambo,3,Queensland,31,Inner Regional Australia,2,2,3,2
+31184,307031184,Clifton - Greenmount,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31185,307031185,Southern Downs - East,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31186,307031186,Southern Downs - West,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31187,307031187,Stanthorpe,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31188,307031188,Stanthorpe Region,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31189,307031189,Warwick,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31190,308011190,Central Highlands - East,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31191,308011191,Central Highlands - West,3,Queensland,33,Remote Australia,4,4,3,3
+31192,308011192,Emerald,3,Queensland,32,Outer Regional Australia,3,3,4,4
+31193,308021193,Agnes Water - Miriam Vale,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31194,308021194,Banana,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31195,308021195,Biloela,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31196,308021196,Boyne Island - Tannum Sands,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31197,308021197,Callemondah,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31198,308021198,Clinton - New Auckland,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31199,308021199,Gladstone,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31200,308021200,Gladstone Hinterland,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31201,308021201,Kin Kora - Sun Valley,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31202,308021202,South Trees,3,Queensland,31,Inner Regional Australia,2,2,,
+31203,308021203,Telina - Toolooa,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31204,308021204,West Gladstone,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31205,308031205,Berserker,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31206,308031206,Bouldercombe,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31207,308031207,Emu Park,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31208,308031208,Frenchville - Mount Archer,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31209,308031209,Glenlee - Rockyview,3,Queensland,31,Inner Regional Australia,2,2,5,4
+31210,308031210,Gracemere,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31211,308031211,Lakes Creek,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31212,308031212,Mount Morgan,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31213,308031213,Norman Gardens,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31214,308031214,Park Avenue,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31215,308031215,Parkhurst - Kawana,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31216,308031216,Rockhampton - West,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31217,308031217,Rockhampton City,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31218,308031218,Rockhampton Region - East,3,Queensland,31,Inner Regional Australia,2,2,3,2
+31219,308031219,Rockhampton Region - North,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31220,308031220,Rockhampton Region - West,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31221,308031221,Shoalwater Bay,3,Queensland,32,Outer Regional Australia,3,3,,
+31222,308031222,The Range - Allenstown,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31223,308031223,Yeppoon,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31224,309011224,Broadbeach Waters,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31225,309011225,Burleigh Heads,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31226,309011226,Burleigh Waters,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31227,309011227,Mermaid Beach - Broadbeach,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31228,309011228,Mermaid Waters,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31229,309011229,Miami,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31230,309021230,Coolangatta,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31231,309021231,Currumbin - Tugun,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31232,309021232,Currumbin Waters,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31233,309021233,Elanora,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31234,309021234,Palm Beach,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31235,309031235,Arundel,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31236,309031236,Biggera Waters,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31237,309031237,Coombabah,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31238,309031238,Labrador,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31239,309031239,Paradise Point - Hollywell,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31240,309031240,Runaway Bay,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31241,309041241,Guanaba - Springbrook,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31242,309041242,Tamborine - Canungra,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31243,309051243,Currumbin Valley - Tallebudgera,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31244,309051244,Mudgeeraba - Bonogin,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31245,309051245,Reedy Creek - Andrews,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31246,309061246,Carrara,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31247,309061247,Highland Park,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31248,309061248,Nerang - Mount Nathan,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31249,309061249,Pacific Pines - Gaven,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31250,309061250,Worongary - Tallai,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31251,309071251,Coomera,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31252,309071252,Helensvale,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31253,309071253,Hope Island,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31254,309071254,Jacobs Well - Alberton,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31255,309071255,Ormeau - Yatala,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31256,309071256,Oxenford - Maudsland,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31257,309071257,Pimpama,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31258,309071258,Upper Coomera - Willow Vale,3,Queensland,30,Major Cities of Australia,1,1,3,4
+31259,309081259,Clear Island Waters,3,Queensland,30,Major Cities of Australia,1,1,4,5
+31260,309081260,Merrimac,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31261,309081261,Robina,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31262,309081262,Varsity Lakes,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31263,309091263,Ashmore,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31264,309091264,Molendinar,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31265,309091265,Parkwood,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31266,309091266,Southport,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31267,309101267,Benowa,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31268,309101268,Bundall,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31269,309101269,Main Beach,3,Queensland,30,Major Cities of Australia,1,1,5,4
+31270,309101270,Surfers Paradise,3,Queensland,30,Major Cities of Australia,1,1,2,3
+31271,310011271,Darra - Sumner,3,Queensland,30,Major Cities of Australia,1,1,1,2
+31272,310011272,Durack,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31273,310011273,Forest Lake - Doolandella,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31274,310011274,Inala - Richlands,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31275,310011275,Oxley (Qld),3,Queensland,30,Major Cities of Australia,1,1,4,4
+31276,310011276,Wacol,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31277,310021277,Boonah,3,Queensland,31,Inner Regional Australia,2,2,3,2
+31278,310021278,Esk,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31279,310021279,Lake Manchester - England Creek,3,Queensland,31,Inner Regional Australia,2,2,,
+31280,310021280,Lockyer Valley - East,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31281,310021281,Lowood,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31282,310021282,Rosewood,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31283,310031283,Brassall,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31284,310031284,Bundamba,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31285,310031285,Churchill - Yamanto,3,Queensland,30,Major Cities of Australia,1,1,3,2
+31286,310031286,Ipswich - Central,3,Queensland,30,Major Cities of Australia,1,1,1,2
+31287,310031287,Ipswich - East,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31288,310031288,Ipswich - North,3,Queensland,30,Major Cities of Australia,1,1,5,4
+31289,310031289,Karalee - Barellan Point,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31290,310031290,Karana Downs,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31291,310031291,Leichhardt - One Mile,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31292,310031292,North Ipswich - Tivoli,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31293,310031293,Raceview,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31294,310031294,Ripley,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31295,310031295,Riverview,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31296,310041296,Bellbird Park - Brookwater,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31297,310041297,Camira - Gailes,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31298,310041298,Carole Park,3,Queensland,30,Major Cities of Australia,1,1,,
+31299,310041299,Collingwood Park - Redbank,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31300,310041300,Goodna,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31301,310041301,New Chum,3,Queensland,30,Major Cities of Australia,1,1,,
+31302,310041302,Redbank Plains,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31303,310041303,Springfield,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31304,310041304,Springfield Lakes,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31305,311011305,Beaudesert,3,Queensland,31,Inner Regional Australia,2,2,1,2
+31306,311021306,Beenleigh,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31307,311021307,Eagleby,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31308,311021308,Edens Landing - Holmview,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31309,311021309,Mount Warren Park,3,Queensland,30,Major Cities of Australia,1,1,3,2
+31310,311021310,Wolffdene - Bahrs Scrub,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31311,311031311,Boronia Heights - Park Ridge,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31312,311031312,Browns Plains,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31313,311031313,Chambers Flat - Logan Reserve,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31314,311031314,Crestmead,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31315,311031315,Greenbank Military Camp,3,Queensland,30,Major Cities of Australia,1,1,,
+31316,311031316,Hillcrest,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31317,311031317,Marsden,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31318,311031318,Munruben - Park Ridge South,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31319,311031319,Regents Park - Heritage Park,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31320,311041320,Greenbank,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31321,311041321,Jimboomba,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31322,311041322,Logan Village,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31323,311051323,Bethania - Waterford,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31324,311051324,Cornubia - Carbrook,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31325,311051325,Loganholme - Tanah Merah,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31326,311051326,Loganlea,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31327,311051327,Shailer Park,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31328,311051328,Waterford West,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31329,311061329,Daisy Hill,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31330,311061330,Kingston,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31331,311061331,Logan Central,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31332,311061332,Rochedale South - Priestdale,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31333,311061333,Slacks Creek,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31334,311061334,Springwood,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31335,311061335,Underwood,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31336,311061336,Woodridge,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31337,312011337,Bowen,3,Queensland,32,Outer Regional Australia,3,3,2,1
+31338,312011338,Broadsound - Nebo,3,Queensland,32,Outer Regional Australia,3,3,4,3
+31339,312011339,Clermont,3,Queensland,33,Remote Australia,4,4,4,3
+31340,312011340,Collinsville,3,Queensland,33,Remote Australia,4,4,2,2
+31341,312011341,Moranbah,3,Queensland,32,Outer Regional Australia,3,3,5,4
+31342,312021342,Andergrove - Beaconsfield,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31343,312021343,East Mackay,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31344,312021344,Eimeo - Rural View,3,Queensland,31,Inner Regional Australia,2,2,5,5
+31345,312021345,Eungella Hinterland,3,Queensland,32,Outer Regional Australia,3,3,,
+31346,312021346,Mackay,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31347,312021347,Mackay Harbour,3,Queensland,31,Inner Regional Australia,2,2,5,5
+31348,312021348,Mount Pleasant - Glenella,3,Queensland,31,Inner Regional Australia,2,2,5,4
+31349,312021349,North Mackay,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31350,312021350,Ooralea - Bakers Creek,3,Queensland,31,Inner Regional Australia,2,2,4,3
+31351,312021351,Pioneer Valley,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31352,312021352,Sarina,3,Queensland,32,Outer Regional Australia,3,3,3,2
+31353,312021353,Seaforth - Calen,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31354,312021354,Shoal Point - Bucasia,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31355,312021355,Slade Point,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31356,312021356,South Mackay,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31357,312021357,Walkerston - Eton,3,Queensland,32,Outer Regional Australia,3,3,4,3
+31358,312021358,West Mackay,3,Queensland,31,Inner Regional Australia,2,2,3,2
+31359,312031359,Airlie - Whitsundays,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31360,312031360,Cape Conway,3,Queensland,32,Outer Regional Australia,3,3,,
+31361,312031361,Proserpine,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31362,313011362,Beachmere - Sandstone Point,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31363,313011363,Bribie Island,3,Queensland,31,Inner Regional Australia,2,2,1,2
+31364,313021364,Burpengary - East,3,Queensland,30,Major Cities of Australia,1,1,5,4
+31365,313021365,Caboolture,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31366,313021366,Caboolture - South,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31367,313021367,Elimbah,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31368,313021368,Morayfield - East,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31369,313021369,Wamuran,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31370,313031370,Kilcoy,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31371,313031371,Woodford - D'Aguilar,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31372,313041372,Burpengary,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31373,313041373,Deception Bay,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31374,313041374,Morayfield,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31375,313041375,Narangba,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31376,313041376,Upper Caboolture,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31377,313051377,Clontarf,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31378,313051378,Margate - Woody Point,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31379,313051379,Redcliffe,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31380,313051380,Rothwell - Kippa-Ring,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31381,313051381,Scarborough - Newport,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31382,314011382,Albany Creek,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31383,314011383,Cashmere,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31384,314011384,Dayboro,3,Queensland,31,Inner Regional Australia,2,2,5,5
+31385,314011385,Eatons Hill,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31386,314011386,Hills District,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31387,314011387,Samford Valley,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31388,314021388,Dakabin - Kallangur,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31389,314021389,Murrumba Downs - Griffin,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31390,314021390,North Lakes - Mango Hill,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31391,314031391,Bray Park,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31392,314031392,Lawnton,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31393,314031393,Petrie,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31394,314031394,Strathpine - Brendale,3,Queensland,30,Major Cities of Australia,1,1,3,2
+31395,315011395,Aurukun,3,Queensland,34,Very Remote Australia,5,4,1,1
+31396,315011396,Cape York,3,Queensland,33,Remote Australia,4,4,1,1
+31397,315011397,Croydon - Etheridge,3,Queensland,34,Very Remote Australia,5,4,2,2
+31398,315011398,Kowanyama - Pormpuraaw,3,Queensland,34,Very Remote Australia,5,4,1,1
+31399,315011399,Northern Peninsula,3,Queensland,34,Very Remote Australia,5,4,1,1
+31400,315011400,Tablelands,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31402,315011402,Torres Strait Islands,3,Queensland,34,Very Remote Australia,5,4,1,1
+31403,315011403,Weipa,3,Queensland,34,Very Remote Australia,5,4,4,4
+31404,315021404,Carpentaria,3,Queensland,34,Very Remote Australia,5,4,1,1
+31405,315021405,Mount Isa,3,Queensland,33,Remote Australia,4,4,3,3
+31406,315021406,Mount Isa Region,3,Queensland,33,Remote Australia,4,4,1,1
+31407,315021407,Northern Highlands,3,Queensland,34,Very Remote Australia,5,4,2,2
+31408,315031408,Barcaldine - Blackall,3,Queensland,34,Very Remote Australia,5,4,2,2
+31409,315031409,Charleville,3,Queensland,34,Very Remote Australia,5,4,2,2
+31410,315031410,Far Central West,3,Queensland,34,Very Remote Australia,5,4,1,1
+31411,315031411,Far South West,3,Queensland,34,Very Remote Australia,5,4,1,1
+31412,315031412,Longreach,3,Queensland,34,Very Remote Australia,5,4,3,3
+31413,316011413,Buderim - North,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31414,316011414,Buderim - South,3,Queensland,30,Major Cities of Australia,1,1,5,5
+31415,316011415,Mountain Creek,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31416,316011416,Sippy Downs,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31417,316021417,Aroona - Currimundi,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31418,316021418,Buddina - Minyama,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31419,316021419,Caloundra - Kings Beach,3,Queensland,30,Major Cities of Australia,1,1,1,1
+31420,316021420,Caloundra - West,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31421,316021421,Golden Beach - Pelican Waters,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31422,316021422,Moffat Beach - Battery Hill,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31423,316021423,Parrearra - Warana,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31424,316021424,Wurtulla - Birtinya,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31425,316031425,Coolum Beach,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31426,316031426,Marcoola - Mudjimba,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31427,316031427,Maroochydore - Kuluin,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31428,316031428,Mooloolaba - Alexandra Headland,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31429,316041429,Bli Bli,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31430,316041430,Diddillibah - Rosemount,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31431,316041431,Eumundi - Yandina,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31432,316041432,Nambour,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31433,316041433,Noosa Hinterland,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31434,316051434,Noosa Heads,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31435,316051435,Noosaville,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31436,316051436,Peregian,3,Queensland,30,Major Cities of Australia,1,1,4,4
+31437,316051437,Sunshine Beach,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31438,316051438,Tewantin,3,Queensland,30,Major Cities of Australia,1,1,2,2
+31439,316061439,Beerwah,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31440,316061440,Caloundra Hinterland,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31441,316061441,Glass House Mountains,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31442,316061442,Landsborough,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31443,316061443,Maroochy Hinterland,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31444,316061444,Palmwoods,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31445,317011445,Cambooya - Wyreema,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31446,317011446,Darling Heights,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31447,317011447,Drayton - Harristown,3,Queensland,31,Inner Regional Australia,2,2,2,1
+31448,317011448,Gatton,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31449,317011449,Gowrie (Qld),3,Queensland,31,Inner Regional Australia,2,2,4,3
+31450,317011450,Highfields,3,Queensland,31,Inner Regional Australia,2,2,5,5
+31451,317011451,Lockyer Valley - West,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31452,317011452,Middle Ridge,3,Queensland,31,Inner Regional Australia,2,2,5,5
+31453,317011453,Newtown (Qld),3,Queensland,31,Inner Regional Australia,2,2,1,1
+31454,317011454,North Toowoomba - Harlaxton,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31455,317011455,Rangeville,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31456,317011456,Toowoomba - Central,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31457,317011457,Toowoomba - East,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31458,317011458,Toowoomba - West,3,Queensland,31,Inner Regional Australia,2,2,4,4
+31459,317011459,Wilsonton,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31460,318011460,Ayr,3,Queensland,32,Outer Regional Australia,3,3,2,1
+31461,318011461,Burdekin,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31462,318011462,Charters Towers,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31463,318011463,Dalrymple,3,Queensland,33,Remote Australia,4,4,2,2
+31464,318011464,Ingham,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31465,318011465,Ingham Region,3,Queensland,33,Remote Australia,4,4,3,2
+31467,318021467,Aitkenvale,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31468,318021468,Annandale,3,Queensland,32,Outer Regional Australia,3,3,5,5
+31470,318021470,Bohle Plains,3,Queensland,32,Outer Regional Australia,3,3,5,5
+31471,318021471,Condon - Rasmussen,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31472,318021472,Cranbrook,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31473,318021473,Deeragun,3,Queensland,32,Outer Regional Australia,3,3,4,4
+31474,318021474,Douglas,3,Queensland,32,Outer Regional Australia,3,3,5,5
+31475,318021475,Garbutt - West End,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31476,318021476,Gulliver - Currajong - Vincent,3,Queensland,32,Outer Regional Australia,3,3,2,1
+31477,318021477,Heatley,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31478,318021478,Hermit Park - Rosslea,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31479,318021479,Hyde Park - Pimlico,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31480,318021480,Kelso,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31481,318021481,Kirwan - East,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31482,318021482,Kirwan - West,3,Queensland,32,Outer Regional Australia,3,3,4,4
+31483,318021483,Magnetic Island,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31484,318021484,Mount Louisa,3,Queensland,32,Outer Regional Australia,3,3,4,4
+31485,318021485,Mundingburra,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31486,318021486,Northern Beaches,3,Queensland,32,Outer Regional Australia,3,3,3,2
+31487,318021487,Oonoonba,3,Queensland,32,Outer Regional Australia,3,3,4,4
+31488,318021488,South Townsville - Railway Estate,3,Queensland,32,Outer Regional Australia,3,3,3,2
+31489,318021489,Townsville - South,3,Queensland,32,Outer Regional Australia,3,3,3,3
+31490,318021490,Townsville City - North Ward,3,Queensland,32,Outer Regional Australia,3,3,4,4
+31491,318021491,Wulguru - Roseneath,3,Queensland,32,Outer Regional Australia,3,3,2,2
+31492,319011492,Ashfield - Kepnock,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31493,319011493,Bargara - Burnett Heads,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31494,319011494,Branyan - Kensington,3,Queensland,31,Inner Regional Australia,2,2,3,2
+31495,319011495,Bundaberg,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31496,319011496,Bundaberg East - Kalkie,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31497,319011497,Bundaberg North - Gooburrum,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31498,319011498,Bundaberg Region - North,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31499,319011499,Bundaberg Region - South,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31500,319011500,Millbank - Avoca,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31501,319011501,Svensson Heights - Norville,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31502,319011502,Walkervale - Avenell Heights,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31503,319021503,Gayndah - Mundubbera,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31504,319021504,Gin Gin,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31505,319021505,Kingaroy,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31506,319021506,Kingaroy Region - North,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31507,319021507,Kingaroy Region - South,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31508,319021508,Monto - Eidsvold,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31509,319021509,Nanango,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31510,319021510,North Burnett,3,Queensland,32,Outer Regional Australia,3,3,,
+31511,319031511,Cooloola,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31512,319031512,Gympie - North,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31513,319031513,Gympie - South,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31514,319031514,Gympie Region,3,Queensland,31,Inner Regional Australia,2,2,2,2
+31515,319031515,Kilkivan,3,Queensland,32,Outer Regional Australia,3,3,1,1
+31516,319041516,Booral - River Heads,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31517,319041517,Craignish - Dundowran Beach,3,Queensland,31,Inner Regional Australia,2,2,3,3
+31518,319041518,Pialba - Eli Waters,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31519,319041519,Point Vernon,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31520,319041520,Torquay - Scarness - Kawungan,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31521,319041521,Urangan - Wondunna,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31522,319051522,Burrum - Fraser,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31523,319051523,Granville,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31524,319051524,Maryborough (Qld),3,Queensland,31,Inner Regional Australia,2,2,1,1
+31525,319051525,Maryborough Region - South,3,Queensland,31,Inner Regional Australia,2,2,1,1
+31526,319051526,Tinana,3,Queensland,31,Inner Regional Australia,2,2,3,3
+41001,401011001,Adelaide,4,South Australia,40,Major Cities of Australia,1,1,2,3
+41002,401011002,North Adelaide,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41003,401021003,Adelaide Hills,4,South Australia,41,Inner Regional Australia,2,2,4,4
+41004,401021004,Aldgate - Stirling,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41005,401021005,Hahndorf - Echunga,4,South Australia,41,Inner Regional Australia,2,2,5,4
+41006,401021006,Lobethal - Woodside,4,South Australia,41,Inner Regional Australia,2,2,4,4
+41007,401021007,Mount Barker,4,South Australia,41,Inner Regional Australia,2,2,3,3
+41008,401021008,Mount Barker Region,4,South Australia,41,Inner Regional Australia,2,2,4,3
+41009,401021009,Nairne,4,South Australia,41,Inner Regional Australia,2,2,4,3
+41010,401021010,Uraidla - Summertown,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41011,401031011,Burnside - Wattle Park,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41012,401031012,Glenside - Beaumont,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41013,401031013,Toorak Gardens,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41014,401041014,Athelstone,4,South Australia,40,Major Cities of Australia,1,1,5,4
+41015,401041015,Paradise - Newton,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41016,401041016,Rostrevor - Magill,4,South Australia,40,Major Cities of Australia,1,1,3,3
+41017,401051017,Norwood (SA),4,South Australia,40,Major Cities of Australia,1,1,4,4
+41018,401051018,Payneham - Felixstow,4,South Australia,40,Major Cities of Australia,1,1,3,3
+41019,401051019,St Peters - Marden,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41020,401061020,Nailsworth - Broadview,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41021,401061021,Prospect,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41022,401061022,Walkerville,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41023,401071023,Goodwood - Millswood,4,South Australia,40,Major Cities of Australia,1,1,5,4
+41024,401071024,Unley - Parkside,4,South Australia,40,Major Cities of Australia,1,1,4,5
+41025,402011025,Gawler - North,4,South Australia,40,Major Cities of Australia,1,1,4,3
+41026,402011026,Gawler - South,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41027,402011027,Lewiston - Two Wells,4,South Australia,41,Inner Regional Australia,2,2,3,2
+41028,402021028,Craigmore - Blakeview,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41029,402021029,Davoren Park,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41030,402021030,Elizabeth,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41031,402021031,Elizabeth East,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41032,402021032,Munno Para West - Angle Vale,4,South Australia,40,Major Cities of Australia,1,1,3,3
+41033,402021033,One Tree Hill,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41034,402021034,Smithfield - Elizabeth North,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41035,402021035,Virginia - Waterloo Corner,4,South Australia,40,Major Cities of Australia,1,1,1,2
+41036,402031036,Enfield - Blair Athol,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41037,402031037,Northgate - Oakden - Gilles Plains,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41038,402031038,Windsor Gardens,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41039,402041039,Dry Creek - North,4,South Australia,40,Major Cities of Australia,1,1,,
+41040,402041040,Ingle Farm,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41041,402041041,Para Hills,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41042,402041042,Parafield,4,South Australia,40,Major Cities of Australia,1,1,,
+41043,402041043,Parafield Gardens,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41044,402041044,Paralowie,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41045,402041045,Pooraka,4,South Australia,40,Major Cities of Australia,1,1,3,3
+41046,402041046,Salisbury,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41047,402041047,Salisbury East,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41048,402041048,Salisbury North,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41049,402051049,Golden Grove,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41050,402051050,Greenwith,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41051,402051051,Highbury - Dernancourt,4,South Australia,40,Major Cities of Australia,1,1,5,4
+41052,402051052,Hope Valley - Modbury,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41053,402051053,Modbury Heights,4,South Australia,40,Major Cities of Australia,1,1,4,3
+41054,402051054,Redwood Park,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41055,402051055,St Agnes - Ridgehaven,4,South Australia,40,Major Cities of Australia,1,1,4,3
+41056,403011056,Brighton (SA),4,South Australia,40,Major Cities of Australia,1,1,4,4
+41057,403011057,Glenelg (SA),4,South Australia,40,Major Cities of Australia,1,1,4,4
+41058,403021058,Edwardstown,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41059,403021059,Hallett Cove,4,South Australia,40,Major Cities of Australia,1,1,5,4
+41060,403021060,Marino - Seaview Downs,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41061,403021061,Mitchell Park,4,South Australia,40,Major Cities of Australia,1,1,1,2
+41062,403021062,Morphettville,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41063,403021063,Sheidow Park - Trott Park,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41064,403021064,Warradale,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41065,403031065,Belair,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41066,403031066,Bellevue Heights,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41067,403031067,Blackwood,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41068,403031068,Colonel Light Gardens,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41069,403031069,Mitcham (SA),4,South Australia,40,Major Cities of Australia,1,1,5,5
+41070,403031070,Panorama,4,South Australia,40,Major Cities of Australia,1,1,3,3
+41071,403041071,Aberfoyle Park,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41072,403041072,Aldinga,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41073,403041073,Christie Downs,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41074,403041074,Christies Beach,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41075,403041075,Clarendon,4,South Australia,41,Inner Regional Australia,2,2,5,5
+41076,403041076,Coromandel Valley,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41077,403041077,Flagstaff Hill,4,South Australia,40,Major Cities of Australia,1,1,5,5
+41078,403041078,Hackham - Onkaparinga Hills,4,South Australia,40,Major Cities of Australia,1,1,3,2
+41079,403041079,Hackham West - Huntfield Heights,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41080,403041080,Happy Valley,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41081,403041081,Happy Valley Reservoir,4,South Australia,40,Major Cities of Australia,1,1,,
+41082,403041082,Lonsdale,4,South Australia,40,Major Cities of Australia,1,1,,
+41083,403041083,McLaren Vale,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41084,403041084,Morphett Vale - East,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41085,403041085,Morphett Vale - West,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41086,403041086,Reynella,4,South Australia,40,Major Cities of Australia,1,1,3,2
+41087,403041087,Seaford (SA),4,South Australia,40,Major Cities of Australia,1,1,3,2
+41088,403041088,Willunga,4,South Australia,41,Inner Regional Australia,2,2,4,4
+41089,403041089,Woodcroft,4,South Australia,40,Major Cities of Australia,1,1,4,3
+41090,404011090,Beverley,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41091,404011091,Flinders Park,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41092,404011092,Henley Beach,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41093,404011093,Hindmarsh - Brompton,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41094,404011094,Royal Park - Hendon - Albert Park,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41095,404011095,Seaton - Grange,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41096,404011096,West Lakes,4,South Australia,40,Major Cities of Australia,1,1,3,3
+41097,404011097,Woodville - Cheltenham,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41098,404021098,Dry Creek - South,4,South Australia,40,Major Cities of Australia,1,1,,
+41099,404021099,Largs Bay - Semaphore,4,South Australia,40,Major Cities of Australia,1,1,3,2
+41101,404021101,Port Adelaide,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41102,404021102,The Parks,4,South Australia,40,Major Cities of Australia,1,1,1,1
+41103,404021103,Torrens Island,4,South Australia,40,Major Cities of Australia,1,1,,
+41104,404031104,Adelaide Airport,4,South Australia,40,Major Cities of Australia,1,1,,
+41105,404031105,Fulham,4,South Australia,40,Major Cities of Australia,1,1,3,3
+41106,404031106,Lockleys,4,South Australia,40,Major Cities of Australia,1,1,3,3
+41107,404031107,Plympton,4,South Australia,40,Major Cities of Australia,1,1,3,3
+41108,404031108,Richmond (SA),4,South Australia,40,Major Cities of Australia,1,1,2,2
+41109,404031109,West Beach,4,South Australia,40,Major Cities of Australia,1,1,4,4
+41110,405011110,Barossa - Angaston,4,South Australia,41,Inner Regional Australia,2,2,3,3
+41111,405011111,Light,4,South Australia,41,Inner Regional Australia,2,2,3,2
+41112,405011112,Lyndoch,4,South Australia,41,Inner Regional Australia,2,2,4,4
+41113,405011113,Mallala,4,South Australia,41,Inner Regional Australia,2,2,2,2
+41114,405011114,Nuriootpa,4,South Australia,41,Inner Regional Australia,2,2,2,2
+41115,405011115,Tanunda,4,South Australia,41,Inner Regional Australia,2,2,3,3
+41116,405021116,Clare,4,South Australia,42,Outer Regional Australia,3,3,3,3
+41117,405021117,Gilbert Valley,4,South Australia,41,Inner Regional Australia,2,2,3,3
+41118,405021118,Goyder,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41119,405021119,Wakefield - Barunga West,4,South Australia,41,Inner Regional Australia,2,2,2,1
+41120,405031120,Jamestown,4,South Australia,42,Outer Regional Australia,3,3,2,2
+41121,405031121,Peterborough - Mount Remarkable,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41122,405031122,Port Pirie,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41123,405031123,Port Pirie Region,4,South Australia,42,Outer Regional Australia,3,3,2,2
+41124,405041124,Kadina,4,South Australia,42,Outer Regional Australia,3,3,2,1
+41125,405041125,Moonta,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41126,405041126,Wallaroo,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41127,405041127,Yorke Peninsula - North,4,South Australia,42,Outer Regional Australia,3,3,2,2
+41129,406011129,Ceduna,4,South Australia,44,Very Remote Australia,5,4,1,1
+41130,406011130,Eyre Peninsula,4,South Australia,43,Remote Australia,4,4,3,2
+41131,406011131,Kimba - Cleve - Franklin Harbour,4,South Australia,43,Remote Australia,4,4,3,3
+41132,406011132,Le Hunte - Elliston,4,South Australia,44,Very Remote Australia,5,4,3,3
+41133,406011133,Port Lincoln,4,South Australia,43,Remote Australia,4,4,2,2
+41134,406011134,West Coast (SA),4,South Australia,44,Very Remote Australia,5,4,2,2
+41135,406011135,Western,4,South Australia,44,Very Remote Australia,5,4,1,1
+41136,406011136,Whyalla,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41137,406011137,Whyalla - North,4,South Australia,42,Outer Regional Australia,3,3,,
+41138,406021138,APY Lands,4,South Australia,44,Very Remote Australia,5,4,1,1
+41139,406021139,Coober Pedy,4,South Australia,44,Very Remote Australia,5,4,1,1
+41140,406021140,Flinders Ranges,4,South Australia,42,Outer Regional Australia,3,3,2,2
+41141,406021141,Outback,4,South Australia,44,Very Remote Australia,5,4,1,2
+41142,406021142,Port Augusta,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41143,406021143,Roxby Downs,4,South Australia,43,Remote Australia,4,4,5,5
+41144,407011144,Goolwa - Port Elliot,4,South Australia,41,Inner Regional Australia,2,2,2,2
+41145,407011145,Kangaroo Island,4,South Australia,43,Remote Australia,4,4,2,2
+41146,407011146,Strathalbyn,4,South Australia,41,Inner Regional Australia,2,2,3,2
+41147,407011147,Strathalbyn Region,4,South Australia,41,Inner Regional Australia,2,2,3,3
+41148,407011148,Victor Harbor,4,South Australia,41,Inner Regional Australia,2,2,2,2
+41149,407011149,Yankalilla,4,South Australia,41,Inner Regional Australia,2,2,2,2
+41150,407021150,Grant,4,South Australia,42,Outer Regional Australia,3,3,3,3
+41151,407021151,Kingston - Robe,4,South Australia,42,Outer Regional Australia,3,3,3,2
+41152,407021152,Millicent,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41153,407021153,Mount Gambier,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41154,407021154,Naracoorte,4,South Australia,42,Outer Regional Australia,3,3,2,2
+41155,407021155,Naracoorte Region,4,South Australia,42,Outer Regional Australia,3,3,4,4
+41156,407021156,Penola,4,South Australia,42,Outer Regional Australia,3,3,2,2
+41157,407021157,Tatiara,4,South Australia,42,Outer Regional Australia,3,3,3,2
+41158,407021158,Wattle Range,4,South Australia,42,Outer Regional Australia,3,3,2,2
+41159,407031159,Barmera,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41160,407031160,Berri,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41161,407031161,Karoonda - Lameroo,4,South Australia,43,Remote Australia,4,4,2,2
+41162,407031162,Loxton,4,South Australia,42,Outer Regional Australia,3,3,2,1
+41163,407031163,Loxton Region,4,South Australia,42,Outer Regional Australia,3,3,2,2
+41164,407031164,Mannum,4,South Australia,41,Inner Regional Australia,2,2,1,1
+41165,407031165,Murray Bridge,4,South Australia,41,Inner Regional Australia,2,2,1,1
+41166,407031166,Murray Bridge Region,4,South Australia,41,Inner Regional Australia,2,2,2,2
+41167,407031167,Renmark,4,South Australia,42,Outer Regional Australia,3,3,1,1
+41168,407031168,Renmark Region,4,South Australia,42,Outer Regional Australia,3,3,2,2
+41169,407031169,The Coorong,4,South Australia,42,Outer Regional Australia,3,3,2,2
+41170,407031170,Waikerie,4,South Australia,42,Outer Regional Australia,3,3,1,1
+51001,501011001,Augusta,5,Western Australia,51,Inner Regional Australia,2,2,3,3
+51002,501011002,Busselton,5,Western Australia,51,Inner Regional Australia,2,2,3,3
+51003,501011003,Busselton Region,5,Western Australia,51,Inner Regional Australia,2,2,4,4
+51004,501011004,Margaret River,5,Western Australia,51,Inner Regional Australia,2,2,4,3
+51005,501021005,Australind - Leschenault,5,Western Australia,51,Inner Regional Australia,2,2,4,4
+51006,501021006,Bunbury,5,Western Australia,51,Inner Regional Australia,2,2,2,2
+51007,501021007,Capel,5,Western Australia,51,Inner Regional Australia,2,2,3,3
+51008,501021008,College Grove - Carey Park,5,Western Australia,51,Inner Regional Australia,2,2,1,1
+51009,501021009,Collie,5,Western Australia,51,Inner Regional Australia,2,2,2,2
+51010,501021010,Dardanup,5,Western Australia,51,Inner Regional Australia,2,2,4,4
+51011,501021011,Davenport,5,Western Australia,51,Inner Regional Australia,2,2,,
+51012,501021012,Eaton - Pelican Point,5,Western Australia,51,Inner Regional Australia,2,2,4,3
+51013,501021013,Gelorup - Dalyellup - Stratham,5,Western Australia,51,Inner Regional Australia,2,2,5,5
+51014,501021014,Harvey,5,Western Australia,51,Inner Regional Australia,2,2,2,2
+51015,501021015,Koombana,5,Western Australia,51,Inner Regional Australia,2,2,2,2
+51016,501021016,Waroona,5,Western Australia,51,Inner Regional Australia,2,2,2,2
+51017,501031017,Bridgetown - Boyup Brook,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51018,501031018,Donnybrook - Balingup,5,Western Australia,51,Inner Regional Australia,2,2,3,3
+51019,501031019,Manjimup,5,Western Australia,52,Outer Regional Australia,3,3,2,1
+51020,501031020,Pemberton,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51021,502011021,Dawesville - Bouvard,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51022,502011022,Falcon - Wannanup,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51023,502011023,Greenfields,5,Western Australia,50,Major Cities of Australia,1,1,1,1
+51024,502011024,Halls Head - Erskine,5,Western Australia,50,Major Cities of Australia,1,1,3,4
+51025,502011025,Mandurah,5,Western Australia,50,Major Cities of Australia,1,1,1,1
+51026,502011026,Mandurah - East,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51027,502011027,Mandurah - North,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51028,502011028,Mandurah - South,5,Western Australia,50,Major Cities of Australia,1,1,1,1
+51029,502011029,Pinjarra,5,Western Australia,51,Inner Regional Australia,2,2,2,2
+51030,503011030,City Beach,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51031,503011031,Claremont (WA),5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51032,503011032,Cottesloe,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51033,503011033,Floreat,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51034,503011034,Mosman Park - Peppermint Grove,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51035,503011035,Nedlands - Dalkeith - Crawley,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51036,503011036,Swanbourne - Mount Claremont,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51037,503021037,Kings Park (WA),5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51038,503021038,Mount Hawthorn - Leederville,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51039,503021039,Mount Lawley - Inglewood,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51040,503021040,North Perth,5,Western Australia,50,Major Cities of Australia,1,1,4,5
+51041,503021041,Perth City,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51042,503021042,Subiaco - Shenton Park,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51043,503021043,Wembley - West Leederville - Glendalough,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51044,504011044,Bassendean - Eden Hill - Ashfield,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51045,504011045,Bayswater - Embleton - Bedford,5,Western Australia,50,Major Cities of Australia,1,1,3,4
+51046,504011046,Maylands,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51047,504011047,Morley,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51048,504011048,Noranda,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51049,504021049,Chidlow,5,Western Australia,51,Inner Regional Australia,2,2,3,4
+51050,504021050,Glen Forrest - Darlington,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51051,504021051,Helena Valley - Koongamia,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51052,504021052,Malmalling - Reservoir,5,Western Australia,51,Inner Regional Australia,2,2,,
+51053,504021053,Mundaring,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51054,504021054,Swan View - Greenmount - Midvale,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51055,504031055,Avon Valley National Park,5,Western Australia,51,Inner Regional Australia,2,2,,
+51056,504031056,Ballajura,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51057,504031057,Beechboro,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51058,504031058,Bullsbrook,5,Western Australia,51,Inner Regional Australia,2,2,3,4
+51059,504031059,Ellenbrook,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51060,504031060,Gidgegannup,5,Western Australia,51,Inner Regional Australia,2,2,5,5
+51061,504031061,Hazelmere - South Guildford,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51062,504031062,Lockridge - Kiara,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51063,504031063,Malaga,5,Western Australia,50,Major Cities of Australia,1,1,,
+51064,504031064,Melaleuca - Lexia,5,Western Australia,50,Major Cities of Australia,1,1,,
+51065,504031065,Middle Swan - Herne Hill,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51066,504031066,Midland - Guildford,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51067,504031067,Stratton - Jane Brook,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51068,504031068,The Vines,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51069,504031069,Walyunga National Park,5,Western Australia,51,Inner Regional Australia,2,2,,
+51070,505011070,Craigie - Beldon,5,Western Australia,50,Major Cities of Australia,1,1,4,3
+51071,505011071,Currambine - Kinross,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51072,505011072,Duncraig,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51073,505011073,Greenwood - Warwick,5,Western Australia,50,Major Cities of Australia,1,1,5,4
+51074,505011074,Heathridge - Connolly,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51075,505011075,Hillarys,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51076,505011076,Iluka - Burns Beach,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51077,505011077,Joondalup - Edgewater,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51078,505011078,Kingsley,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51079,505011079,Mullaloo - Kallaroo,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51080,505011080,Ocean Reef,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51081,505011081,Padbury,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51082,505011082,Sorrento - Marmion,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51083,505011083,Woodvale,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51084,505021084,Balcatta - Hamersley,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51085,505021085,Balga - Mirrabooka,5,Western Australia,50,Major Cities of Australia,1,1,1,1
+51086,505021086,Dianella,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51087,505021087,Herdsman,5,Western Australia,50,Major Cities of Australia,1,1,,
+51088,505021088,Innaloo - Doubleview,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51089,505021089,Karrinyup - Gwelup - Carine,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51090,505021090,Nollamara - Westminster,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51091,505021091,Osborne Park Industrial,5,Western Australia,50,Major Cities of Australia,1,1,,
+51092,505021092,Scarborough,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51093,505021093,Stirling - Osborne Park,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51094,505021094,Trigg - North Beach - Watermans Bay,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51095,505021095,Tuart Hill - Joondanna,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51096,505021096,Wembley Downs - Churchlands - Woodlands,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51097,505021097,Yokine - Coolbinia - Menora,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51098,505031098,Alexander Heights - Koondoola,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51099,505031099,Butler - Merriwa - Ridgewood,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51100,505031100,Carramar,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51101,505031101,Clarkson,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51102,505031102,Girrawheen,5,Western Australia,50,Major Cities of Australia,1,1,1,1
+51103,505031103,Madeley - Darch - Landsdale,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51104,505031104,Marangaroo,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51105,505031105,Mindarie - Quinns Rocks - Jindalee,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51106,505031106,Neerabup National Park,5,Western Australia,50,Major Cities of Australia,1,1,,
+51107,505031107,Tapping - Ashby - Sinagra,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51108,505031108,Wanneroo,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51109,505031109,Yanchep,5,Western Australia,51,Inner Regional Australia,2,2,3,3
+51110,506011110,Armadale - Wungong - Brookdale,5,Western Australia,50,Major Cities of Australia,1,1,1,1
+51111,506011111,Ashendon - Lesley,5,Western Australia,51,Inner Regional Australia,2,2,,
+51112,506011112,Camillo - Champion Lakes,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51113,506011113,Forrestdale - Harrisdale - Piara Waters,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51114,506011114,Kelmscott,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51115,506011115,Mount Nasura - Mount Richon - Bedfordale,5,Western Australia,50,Major Cities of Australia,1,1,5,4
+51116,506011116,Roleystone,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51117,506011117,Seville Grove,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51118,506021118,Belmont - Ascot - Redcliffe,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51119,506021119,East Victoria Park - Carlisle,5,Western Australia,50,Major Cities of Australia,1,1,3,4
+51120,506021120,Kewdale Commercial,5,Western Australia,50,Major Cities of Australia,1,1,,
+51121,506021121,Perth Airport,5,Western Australia,50,Major Cities of Australia,1,1,,
+51122,506021122,Rivervale - Kewdale - Cloverdale,5,Western Australia,50,Major Cities of Australia,1,1,2,3
+51123,506021123,Victoria Park - Lathlain - Burswood,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51124,506031124,Bentley - Wilson - St James,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51125,506031125,Canning Vale - West,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51126,506031126,Canning Vale Commercial,5,Western Australia,50,Major Cities of Australia,1,1,,
+51127,506031127,Cannington - Queens Park,5,Western Australia,50,Major Cities of Australia,1,1,2,3
+51128,506031128,Parkwood - Ferndale - Lynwood,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51129,506031129,Riverton - Shelley - Rossmoyne,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51130,506031130,Welshpool,5,Western Australia,50,Major Cities of Australia,1,1,,
+51131,506031131,Willetton,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51132,506041132,Beckenham - Kenwick - Langford,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51133,506041133,Canning Vale - East,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51134,506041134,Gosnells,5,Western Australia,50,Major Cities of Australia,1,1,1,1
+51135,506041135,Huntingdale - Southern River,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51136,506041136,Maddington - Orange Grove - Martin,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51137,506041137,Thornlie,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51138,506051138,Forrestfield - Wattle Grove,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51139,506051139,High Wycombe,5,Western Australia,50,Major Cities of Australia,1,1,4,3
+51140,506051140,Kalamunda - Maida Vale - Gooseberry Hill,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51141,506051141,Lesmurdie - Bickley - Carmel,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51142,506061142,Byford,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51143,506061143,Mundijong,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51144,506061144,Serpentine - Jarrahdale,5,Western Australia,51,Inner Regional Australia,2,2,4,4
+51145,506071145,Como,5,Western Australia,50,Major Cities of Australia,1,1,4,5
+51146,506071146,Manning - Waterford,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51147,506071147,South Perth - Kensington,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51148,507011148,Banjup,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51149,507011149,Beeliar,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51150,507011150,Bibra Industrial,5,Western Australia,50,Major Cities of Australia,1,1,,
+51151,507011151,Bibra Lake,5,Western Australia,50,Major Cities of Australia,1,1,,
+51152,507011152,Coogee,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51153,507011153,Coolbellup,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51154,507011154,Hamilton Hill,5,Western Australia,50,Major Cities of Australia,1,1,1,2
+51155,507011155,Henderson,5,Western Australia,50,Major Cities of Australia,1,1,,
+51156,507011156,Jandakot,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51157,507011157,Jandakot Airport,5,Western Australia,50,Major Cities of Australia,1,1,,
+51158,507011158,North Coogee,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51159,507011159,South Lake - Cockburn Central,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51160,507011160,Spearwood,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51161,507011161,Success - Hammond Park,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51162,507011162,Wattleup,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51163,507011163,Yangebup,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51164,507021164,East Fremantle,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51165,507021165,Fremantle,5,Western Australia,50,Major Cities of Australia,1,1,3,4
+51166,507021166,Fremantle - South,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51167,507021167,O'Connor (WA),5,Western Australia,50,Major Cities of Australia,1,1,,
+51168,507031168,Anketell - Wandi,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51169,507031169,Bertram - Wellard (West),5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51170,507031170,Calista,5,Western Australia,50,Major Cities of Australia,1,1,1,1
+51171,507031171,Casuarina - Wellard (East),5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51172,507031172,Hope Valley - Postans,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51173,507031173,Kwinana Industrial,5,Western Australia,50,Major Cities of Australia,1,1,,
+51174,507031174,Parmelia - Orelia,5,Western Australia,50,Major Cities of Australia,1,1,1,1
+51175,507041175,Applecross - Ardross,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51176,507041176,Bateman,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51177,507041177,Bicton - Palmyra,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51178,507041178,Booragoon,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51179,507041179,Bull Creek,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51180,507041180,Leeming,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51181,507041181,Melville,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51182,507041182,Murdoch - Kardinya,5,Western Australia,50,Major Cities of Australia,1,1,4,4
+51183,507041183,Willagee,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51184,507041184,Winthrop,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51185,507051185,Baldivis,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51186,507051186,Cooloongup,5,Western Australia,50,Major Cities of Australia,1,1,1,1
+51187,507051187,Port Kennedy,5,Western Australia,50,Major Cities of Australia,1,1,3,4
+51188,507051188,Rockingham,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51189,507051189,Rockingham Lakes,5,Western Australia,50,Major Cities of Australia,1,1,,
+51190,507051190,Safety Bay - Shoalwater,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51191,507051191,Singleton - Golden Bay - Secret Harbour,5,Western Australia,50,Major Cities of Australia,1,1,5,5
+51192,507051192,Waikiki,5,Western Australia,50,Major Cities of Australia,1,1,3,3
+51193,507051193,Warnbro,5,Western Australia,50,Major Cities of Australia,1,1,2,2
+51194,508011194,Esperance,5,Western Australia,53,Remote Australia,4,4,2,2
+51195,508011195,Esperance Region,5,Western Australia,54,Very Remote Australia,5,4,4,3
+51196,508021196,Carnarvon,5,Western Australia,53,Remote Australia,4,4,1,1
+51197,508021197,Exmouth,5,Western Australia,54,Very Remote Australia,5,4,3,3
+51198,508031198,Boulder,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51199,508031199,Kalgoorlie,5,Western Australia,52,Outer Regional Australia,3,3,3,3
+51200,508031200,Kalgoorlie - North,5,Western Australia,52,Outer Regional Australia,3,3,4,4
+51201,508031201,Kalgoorlie Airport,5,Western Australia,52,Outer Regional Australia,3,3,,
+51202,508031202,Kambalda - Coolgardie - Norseman,5,Western Australia,54,Very Remote Australia,5,4,1,1
+51203,508031203,Leinster - Leonora,5,Western Australia,54,Very Remote Australia,5,4,1,1
+51204,508031204,Trafalgar (WA),5,Western Australia,52,Outer Regional Australia,3,3,,
+51205,508041205,Broome,5,Western Australia,53,Remote Australia,4,4,2,3
+51206,508041206,Derby - West Kimberley,5,Western Australia,54,Very Remote Australia,5,4,1,1
+51207,508041207,Halls Creek,5,Western Australia,54,Very Remote Australia,5,4,1,1
+51208,508041208,Kununurra,5,Western Australia,53,Remote Australia,4,4,1,1
+51209,508041209,Roebuck,5,Western Australia,54,Very Remote Australia,5,4,1,1
+51210,508051210,Geraldton,5,Western Australia,52,Outer Regional Australia,3,3,1,1
+51211,508051211,Geraldton - East,5,Western Australia,52,Outer Regional Australia,3,3,1,1
+51212,508051212,Geraldton - North,5,Western Australia,52,Outer Regional Australia,3,3,3,3
+51213,508051213,Geraldton - South,5,Western Australia,52,Outer Regional Australia,3,3,4,4
+51214,508051214,Irwin,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51215,508051215,Meekatharra,5,Western Australia,54,Very Remote Australia,5,4,1,1
+51216,508051216,Morawa,5,Western Australia,53,Remote Australia,4,4,2,2
+51217,508051217,Northampton - Mullewa - Greenough,5,Western Australia,53,Remote Australia,4,4,2,2
+51218,508061218,Ashburton (WA),5,Western Australia,54,Very Remote Australia,5,4,4,4
+51219,508061219,East Pilbara,5,Western Australia,54,Very Remote Australia,5,4,1,1
+51220,508061220,Karratha,5,Western Australia,53,Remote Australia,4,4,5,5
+51221,508061221,Newman,5,Western Australia,54,Very Remote Australia,5,4,4,4
+51222,508061222,Port Hedland,5,Western Australia,53,Remote Australia,4,4,5,5
+51223,508061223,Roebourne,5,Western Australia,53,Remote Australia,4,4,3,3
+51224,508061224,South Hedland,5,Western Australia,53,Remote Australia,4,4,3,4
+51225,509011225,Albany,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51226,509011226,Albany Region,5,Western Australia,52,Outer Regional Australia,3,3,4,4
+51227,509011227,Bayonet Head - Lower King,5,Western Australia,52,Outer Regional Australia,3,3,3,3
+51228,509011228,Denmark,5,Western Australia,52,Outer Regional Australia,3,3,3,3
+51229,509011229,Gnowangerup,5,Western Australia,53,Remote Australia,4,4,3,3
+51230,509011230,Katanning,5,Western Australia,52,Outer Regional Australia,3,3,1,1
+51231,509011231,Kojonup,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51232,509011232,Little Grove - Elleker,5,Western Australia,52,Outer Regional Australia,3,3,4,4
+51233,509011233,McKail - Willyung,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51234,509011234,Plantagenet,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51235,509011235,Stirling Range National Park,5,Western Australia,52,Outer Regional Australia,3,3,,
+51236,509021236,Chittering,5,Western Australia,51,Inner Regional Australia,2,2,4,4
+51237,509021237,Cunderdin,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51238,509021238,Dowerin,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51239,509021239,Gingin - Dandaragan,5,Western Australia,52,Outer Regional Australia,3,3,3,3
+51240,509021240,Merredin,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51241,509021241,Moora,5,Western Australia,52,Outer Regional Australia,3,3,3,3
+51242,509021242,Mukinbudin,5,Western Australia,53,Remote Australia,4,4,3,3
+51243,509021243,Northam,5,Western Australia,51,Inner Regional Australia,2,2,2,2
+51244,509021244,Toodyay,5,Western Australia,51,Inner Regional Australia,2,2,3,3
+51245,509021245,York - Beverley,5,Western Australia,51,Inner Regional Australia,2,2,2,2
+51246,509031246,Brookton,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51247,509031247,Kulin,5,Western Australia,53,Remote Australia,4,4,3,3
+51248,509031248,Murray,5,Western Australia,51,Inner Regional Australia,2,2,3,3
+51249,509031249,Narrogin,5,Western Australia,52,Outer Regional Australia,3,3,2,2
+51250,509031250,Wagin,5,Western Australia,52,Outer Regional Australia,3,3,3,3
+61001,601011001,Bridgewater - Gagebrook,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61002,601011002,Brighton - Pontville,6,Tasmania,61,Inner Regional Australia,2,2,3,2
+61003,601011003,Old Beach - Otago,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61004,601021004,Bellerive - Rosny,6,Tasmania,61,Inner Regional Australia,2,2,3,3
+61005,601021005,Cambridge,6,Tasmania,61,Inner Regional Australia,2,2,5,5
+61006,601021006,Geilston Bay - Risdon,6,Tasmania,61,Inner Regional Australia,2,2,4,3
+61007,601021007,Howrah - Tranmere,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61008,601021008,Lindisfarne - Rose Bay,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61009,601021009,Mornington - Warrane,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61010,601021010,Risdon Vale,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61011,601021011,Rokeby,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61012,601021012,South Arm,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61013,601031013,Austins Ferry - Granton,6,Tasmania,61,Inner Regional Australia,2,2,3,3
+61014,601031014,Berriedale - Chigwell,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61015,601031015,Claremont (Tas.),6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61016,601031016,Derwent Park - Lutana,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61017,601031017,Glenorchy,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61018,601031018,Montrose - Rosetta,6,Tasmania,61,Inner Regional Australia,2,2,2,2
+61019,601031019,Moonah,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61020,601031020,New Norfolk,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61021,601031021,West Moonah,6,Tasmania,61,Inner Regional Australia,2,2,1,2
+61022,601041022,Kingston - Huntingfield,6,Tasmania,61,Inner Regional Australia,2,2,3,3
+61023,601041023,Kingston Beach - Blackmans Bay,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61024,601041024,Margate - Snug,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61025,601041025,Mount Wellington,6,Tasmania,61,Inner Regional Australia,2,2,,
+61026,601041026,Taroona - Bonnet Hill,6,Tasmania,61,Inner Regional Australia,2,2,5,5
+61027,601051027,Hobart,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61028,601051028,Lenah Valley - Mount Stuart,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61029,601051029,Mount Nelson - Dynnyrne,6,Tasmania,61,Inner Regional Australia,2,2,5,5
+61030,601051030,New Town,6,Tasmania,61,Inner Regional Australia,2,2,2,3
+61031,601051031,Sandy Bay,6,Tasmania,61,Inner Regional Australia,2,2,4,5
+61032,601051032,South Hobart - Fern Tree,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61033,601051033,West Hobart,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61034,601061034,Dodges Ferry - Lewisham,6,Tasmania,61,Inner Regional Australia,2,2,2,2
+61035,601061035,Sorell - Richmond,6,Tasmania,61,Inner Regional Australia,2,2,2,2
+61036,602011036,Invermay,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61037,602011037,Kings Meadows - Punchbowl,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61038,602011038,Launceston,6,Tasmania,61,Inner Regional Australia,2,2,3,4
+61039,602011039,Legana,6,Tasmania,61,Inner Regional Australia,2,2,4,3
+61040,602011040,Mowbray,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61041,602011041,Newnham - Mayfield,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61042,602011042,Newstead,6,Tasmania,61,Inner Regional Australia,2,2,3,3
+61043,602011043,Norwood (Tas.),6,Tasmania,61,Inner Regional Australia,2,2,3,3
+61044,602011044,Prospect Vale - Blackstone,6,Tasmania,61,Inner Regional Australia,2,2,3,3
+61045,602011045,Ravenswood,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61046,602011046,Riverside,6,Tasmania,61,Inner Regional Australia,2,2,4,3
+61047,602011047,South Launceston,6,Tasmania,61,Inner Regional Australia,2,2,2,2
+61048,602011048,Summerhill - Prospect,6,Tasmania,61,Inner Regional Australia,2,2,2,2
+61049,602011049,Trevallyn,6,Tasmania,61,Inner Regional Australia,2,2,4,4
+61050,602011050,Waverley - St Leonards,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61051,602011051,West Launceston,6,Tasmania,61,Inner Regional Australia,2,2,3,3
+61052,602011052,Youngtown - Relbia,6,Tasmania,61,Inner Regional Australia,2,2,3,3
+61053,602021053,Beauty Point - Beaconsfield,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61054,602021054,Deloraine,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61055,602021055,Grindelwald - Lanena,6,Tasmania,62,Outer Regional Australia,3,3,3,3
+61056,602021056,Hadspen - Carrick,6,Tasmania,61,Inner Regional Australia,2,2,3,3
+61057,602021057,Westbury,6,Tasmania,62,Outer Regional Australia,3,3,2,2
+61058,602031058,Dilston - Lilydale,6,Tasmania,62,Outer Regional Australia,3,3,3,3
+61059,602031059,George Town,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61060,602031060,Longford,6,Tasmania,61,Inner Regional Australia,2,2,2,1
+61061,602031061,Northern Midlands,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61062,602031062,Perth - Evandale,6,Tasmania,61,Inner Regional Australia,2,2,3,3
+61063,602031063,Scottsdale - Bridport,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61064,602031064,St Helens - Scamander,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61065,603011065,Central Highlands,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61066,603011066,Derwent Valley,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61067,603011067,Southern Midlands,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61068,603011068,Wilderness - East,6,Tasmania,63,Remote Australia,4,4,,
+61069,603021069,Bruny Island - Kettering,6,Tasmania,62,Outer Regional Australia,3,3,3,3
+61070,603021070,Cygnet,6,Tasmania,62,Outer Regional Australia,3,3,2,2
+61071,603021071,Geeveston - Dover,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61072,603021072,Huonville - Franklin,6,Tasmania,62,Outer Regional Australia,3,3,2,2
+61073,603031073,Forestier - Tasman,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61074,603031074,Triabunna - Bicheno,6,Tasmania,63,Remote Australia,4,4,1,1
+61075,604011075,Acton - Upper Burnie,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61076,604011076,Burnie - Ulverstone Region,6,Tasmania,62,Outer Regional Australia,3,3,2,2
+61077,604011077,Burnie - Wivenhoe,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61078,604011078,Parklands - Camdale,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61079,604011079,Penguin - Sulphur Creek,6,Tasmania,62,Outer Regional Australia,3,3,2,2
+61080,604011080,Romaine - Havenview,6,Tasmania,62,Outer Regional Australia,3,3,2,2
+61081,604011081,Somerset,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61082,604011082,Ulverstone,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61083,604011083,West Ulverstone,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61084,604011084,Wynyard,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61085,604021085,Devonport,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61086,604021086,East Devonport,6,Tasmania,61,Inner Regional Australia,2,2,1,1
+61087,604021087,Latrobe,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61088,604021088,Miandetta - Don,6,Tasmania,61,Inner Regional Australia,2,2,3,2
+61089,604021089,Port Sorell,6,Tasmania,62,Outer Regional Australia,3,3,3,2
+61090,604021090,Quoiba - Spreyton,6,Tasmania,61,Inner Regional Australia,2,2,2,2
+61091,604021091,Sheffield - Railton,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61092,604021092,Turners Beach - Forth,6,Tasmania,62,Outer Regional Australia,3,3,3,3
+61093,604031093,King Island,6,Tasmania,64,Very Remote Australia,5,4,2,2
+61094,604031094,North West,6,Tasmania,62,Outer Regional Australia,3,3,2,2
+61095,604031095,Smithton,6,Tasmania,62,Outer Regional Australia,3,3,1,1
+61096,604031096,Waratah,6,Tasmania,62,Outer Regional Australia,3,3,2,2
+61097,604031097,West Coast (Tas.),6,Tasmania,63,Remote Australia,4,4,1,1
+61098,604031098,Wilderness - West,6,Tasmania,63,Remote Australia,4,4,,
+71001,701011001,Darwin Airport,7,Northern Territory,72,Outer Regional Australia,3,3,,
+71002,701011002,Darwin City,7,Northern Territory,72,Outer Regional Australia,3,3,4,5
+71003,701011003,East Point,7,Northern Territory,72,Outer Regional Australia,3,3,,
+71004,701011004,Fannie Bay - The Gardens,7,Northern Territory,72,Outer Regional Australia,3,3,4,5
+71005,701011005,Larrakeyah,7,Northern Territory,72,Outer Regional Australia,3,3,5,5
+71006,701011006,Ludmilla - The Narrows,7,Northern Territory,72,Outer Regional Australia,3,3,2,3
+71007,701011007,Parap,7,Northern Territory,72,Outer Regional Australia,3,3,5,5
+71008,701011008,Stuart Park,7,Northern Territory,72,Outer Regional Australia,3,3,5,5
+71009,701011009,Woolner - Bayview - Winnellie,7,Northern Territory,72,Outer Regional Australia,3,3,5,5
+71010,701021010,Alawa,7,Northern Territory,72,Outer Regional Australia,3,3,3,3
+71011,701021011,Anula,7,Northern Territory,72,Outer Regional Australia,3,3,3,4
+71012,701021012,Berrimah,7,Northern Territory,72,Outer Regional Australia,3,3,4,3
+71013,701021013,Brinkin - Nakara,7,Northern Territory,72,Outer Regional Australia,3,3,5,5
+71014,701021014,Buffalo Creek,7,Northern Territory,72,Outer Regional Australia,3,3,,
+71015,701021015,Charles Darwin,7,Northern Territory,72,Outer Regional Australia,3,3,,
+71016,701021016,Coconut Grove,7,Northern Territory,72,Outer Regional Australia,3,3,2,2
+71017,701021017,East Arm,7,Northern Territory,72,Outer Regional Australia,3,3,,
+71018,701021018,Jingili,7,Northern Territory,72,Outer Regional Australia,3,3,4,4
+71019,701021019,Karama,7,Northern Territory,72,Outer Regional Australia,3,3,2,2
+71020,701021020,Leanyer,7,Northern Territory,72,Outer Regional Australia,3,3,4,5
+71022,701021022,Malak - Marrara,7,Northern Territory,72,Outer Regional Australia,3,3,2,3
+71023,701021023,Millner,7,Northern Territory,72,Outer Regional Australia,3,3,3,3
+71024,701021024,Moil,7,Northern Territory,72,Outer Regional Australia,3,3,3,3
+71025,701021025,Nightcliff,7,Northern Territory,72,Outer Regional Australia,3,3,4,4
+71026,701021026,Rapid Creek,7,Northern Territory,72,Outer Regional Australia,3,3,4,4
+71027,701021027,Tiwi,7,Northern Territory,72,Outer Regional Australia,3,3,3,4
+71028,701021028,Wagaman,7,Northern Territory,72,Outer Regional Australia,3,3,2,3
+71029,701021029,Wanguri,7,Northern Territory,72,Outer Regional Australia,3,3,4,4
+71030,701021030,Wulagi,7,Northern Territory,72,Outer Regional Australia,3,3,4,4
+71031,701031031,Howard Springs,7,Northern Territory,72,Outer Regional Australia,3,3,4,4
+71032,701031032,Humpty Doo,7,Northern Territory,72,Outer Regional Australia,3,3,4,4
+71033,701031033,Koolpinyah,7,Northern Territory,72,Outer Regional Australia,3,3,,
+71034,701031034,Virginia,7,Northern Territory,72,Outer Regional Australia,3,3,4,4
+71035,701031035,Weddell,7,Northern Territory,72,Outer Regional Australia,3,3,2,3
+71036,701041036,Bakewell,7,Northern Territory,72,Outer Regional Australia,3,3,4,4
+71037,701041037,Driver,7,Northern Territory,72,Outer Regional Australia,3,3,3,3
+71038,701041038,Durack - Marlow Lagoon,7,Northern Territory,72,Outer Regional Australia,3,3,5,5
+71039,701041039,Gray,7,Northern Territory,72,Outer Regional Australia,3,3,1,1
+71040,701041040,Moulden,7,Northern Territory,72,Outer Regional Australia,3,3,1,1
+71041,701041041,Palmerston - North,7,Northern Territory,72,Outer Regional Australia,3,3,5,5
+71042,701041042,Palmerston - South,7,Northern Territory,72,Outer Regional Australia,3,3,,
+71043,701041043,Rosebery - Bellamack,7,Northern Territory,72,Outer Regional Australia,3,3,5,5
+71044,701041044,Woodroffe,7,Northern Territory,72,Outer Regional Australia,3,3,2,3
+71045,702011045,Charles,7,Northern Territory,73,Remote Australia,4,4,2,3
+71046,702011046,East Side,7,Northern Territory,73,Remote Australia,4,4,3,3
+71047,702011047,Flynn (NT),7,Northern Territory,73,Remote Australia,4,4,3,3
+71048,702011048,Larapinta,7,Northern Territory,73,Remote Australia,4,4,3,3
+71049,702011049,Mount Johns,7,Northern Territory,73,Remote Australia,4,4,4,4
+71050,702011050,Petermann - Simpson,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71051,702011051,Ross,7,Northern Territory,73,Remote Australia,4,4,2,3
+71052,702011052,Sandover - Plenty,7,Northern Territory,73,Remote Australia,4,4,1,1
+71053,702011053,Tanami,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71054,702011054,Yuendumu - Anmatjere,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71055,702021055,Barkly,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71056,702021056,Tennant Creek,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71057,702031057,Alligator,7,Northern Territory,73,Remote Australia,4,4,1,1
+71058,702031058,Daly,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71059,702031059,Thamarrurr,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71060,702031060,Tiwi Islands,7,Northern Territory,73,Remote Australia,4,4,1,1
+71061,702031061,West Arnhem,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71062,702041062,Anindilyakwa,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71064,702041064,Nhulunbuy,7,Northern Territory,74,Very Remote Australia,5,4,5,4
+71065,702051065,Elsey,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71066,702051066,Gulf,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+71067,702051067,Katherine,7,Northern Territory,73,Remote Australia,4,4,1,2
+71068,702051068,Victoria River,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+81001,801011001,Aranda,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81002,801011002,Belconnen,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81003,801011003,Bruce,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81004,801011004,Charnwood,8,Australian Capital Territory,80,Major Cities of Australia,1,1,2,3
+81005,801011005,Cook,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81006,801011006,Dunlop,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81007,801011007,Evatt,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81008,801011008,Florey,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81009,801011009,Flynn (ACT),8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81010,801011010,Fraser,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81011,801011011,Giralang,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81012,801011012,Gooromon,8,Australian Capital Territory,80,Major Cities of Australia,1,1,,
+81013,801011013,Hawker,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81014,801011014,Higgins,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81015,801011015,Holt,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81016,801011016,Kaleen,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81017,801011017,Latham,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81018,801011018,Lawson,8,Australian Capital Territory,80,Major Cities of Australia,1,1,,
+81019,801011019,Macgregor (ACT),8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81020,801011020,Macquarie,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81021,801011021,McKellar,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81022,801011022,Melba,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81023,801011023,Page,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81024,801011024,Scullin,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81025,801011025,Spence,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81026,801011026,Weetangera,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81027,801021027,ACT - South West,8,Australian Capital Territory,81,Inner Regional Australia,2,2,4,4
+81028,801021028,Molonglo,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,5
+81029,801021029,Namadgi,8,Australian Capital Territory,81,Inner Regional Australia,2,2,2,2
+81030,801031030,ACT - East,8,Australian Capital Territory,80,Major Cities of Australia,1,1,1,1
+81031,801031031,Hume,8,Australian Capital Territory,80,Major Cities of Australia,1,1,,
+81032,801031032,Kowen,8,Australian Capital Territory,81,Inner Regional Australia,2,2,5,5
+81033,801031033,Majura,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,4
+81034,801041034,Amaroo,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81035,801041035,Bonner,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81036,801041036,Casey,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81037,801041037,Crace,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81038,801041038,Forde,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81039,801041039,Franklin,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81040,801041040,Gungahlin,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81041,801041041,Gungahlin - East,8,Australian Capital Territory,80,Major Cities of Australia,1,1,,
+81042,801041042,Gungahlin - West,8,Australian Capital Territory,80,Major Cities of Australia,1,1,,
+81043,801041043,Hall,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81044,801041044,Harrison,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81045,801041045,Mitchell,8,Australian Capital Territory,80,Major Cities of Australia,1,1,,
+81046,801041046,Ngunnawal,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,5
+81047,801041047,Nicholls,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81048,801041048,Palmerston,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81049,801051049,Acton,8,Australian Capital Territory,80,Major Cities of Australia,1,1,,
+81050,801051050,Ainslie,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,5
+81051,801051051,Braddon,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81052,801051052,Campbell,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81053,801051053,Civic,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81054,801051054,Dickson,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81055,801051055,Downer,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81056,801051056,Hackett,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81057,801051057,Lyneham,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81058,801051058,O'Connor (ACT),8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81059,801051059,Reid,8,Australian Capital Territory,80,Major Cities of Australia,1,1,2,3
+81060,801051060,Turner,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81061,801051061,Watson,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81062,801061062,Deakin,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81063,801061063,Forrest,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81064,801061064,Griffith (ACT),8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81065,801061065,Kingston - Barton,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81066,801061066,Lake Burley Griffin,8,Australian Capital Territory,80,Major Cities of Australia,1,1,,
+81067,801061067,Narrabundah,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81068,801061068,Parkes (ACT),8,Australian Capital Territory,80,Major Cities of Australia,1,1,,
+81069,801061069,Red Hill (ACT),8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81070,801061070,Yarralumla,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81071,801071071,Banks,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,5
+81072,801071072,Bonython,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81073,801071073,Calwell,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81074,801071074,Chisholm,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81075,801071075,Conder,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81076,801071076,Fadden,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81077,801071077,Gilmore,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81078,801071078,Gordon (ACT),8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81079,801071079,Gowrie (ACT),8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81080,801071080,Greenway,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,5
+81081,801071081,Isabella Plains,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81082,801071082,Kambah,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,5
+81083,801071083,Macarthur,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81084,801071084,Monash,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81085,801071085,Mount Taylor,8,Australian Capital Territory,80,Major Cities of Australia,1,1,,
+81086,801071086,Oxley (ACT),8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81087,801071087,Richardson,8,Australian Capital Territory,80,Major Cities of Australia,1,1,3,3
+81088,801071088,Theodore,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81089,801071089,Tuggeranong,8,Australian Capital Territory,81,Inner Regional Australia,2,2,2,4
+81090,801071090,Wanniassa,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,5
+81091,801081091,Chapman,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81092,801081092,Duffy,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81093,801081093,Fisher,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81094,801081094,Holder,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81095,801081095,Rivett,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81096,801081096,Stirling,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81097,801081097,Waramanga,8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81098,801081098,Weston,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81099,801091099,Chifley,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81100,801091100,Curtin,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81101,801091101,Farrer,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81102,801091102,Garran,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81103,801091103,Hughes,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81104,801091104,Isaacs,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81105,801091105,Lyons (ACT),8,Australian Capital Territory,80,Major Cities of Australia,1,1,4,4
+81106,801091106,Mawson,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81107,801091107,O'Malley,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81108,801091108,Pearce,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81109,801091109,Phillip,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+81110,801091110,Torrens,8,Australian Capital Territory,80,Major Cities of Australia,1,1,5,5
+21308,212031308,Pearcedale - Tooradin,2,Victoria,20,Major Cities of Australia,1,1,3,3
+21379,214021379,Hastings - Somers,2,Victoria,20,Major Cities of Australia,1,1,3,2
+21431,217021431,Otway,2,Victoria,21,Inner Regional Australia,2,2,3,2
+31013,301021013,Victoria Point,3,Queensland,30,Major Cities of Australia,1,1,3,3
+31401,315011401,Torres,3,Queensland,34,Very Remote Australia,5,4,1,1
+31466,318011466,Palm Island,3,Queensland,33,Remote Australia,4,4,1,1
+31469,318021469,Belgian Gardens - Pallarenda,3,Queensland,32,Outer Regional Australia,3,3,4,4
+41100,404021100,North Haven,4,South Australia,40,Major Cities of Australia,1,1,2,2
+41128,405041128,Yorke Peninsula - South,4,South Australia,43,Remote Australia,4,4,2,2
+71021,701021021,Lyons (NT),7,Northern Territory,72,Outer Regional Australia,3,3,5,5
+71063,702041063,East Arnhem,7,Northern Territory,74,Very Remote Australia,5,4,1,1
+91001,901011001,Christmas Island,9,Other Territories,94,Very Remote Australia,5,4,2,3
+91002,901021002,Cocos (Keeling) Islands,9,Other Territories,94,Very Remote Australia,5,4,1,1
+91003,901031003,Jervis Bay,9,Other Territories,91,Inner Regional Australia,2,2,1,1
