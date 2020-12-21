@@ -1,8 +1,8 @@
 #reading the atlas data (published and downloaded)
 .libPaths("c:/software/Rpackages")
 library(tidyverse)
-#library(dplyr)
-library(plyr)
+library(dplyr)
+#library(plyr)
 atlas_data<-read_csv("Data/EHR Downloadable Data.csv")
 #calculating Standard deviation of  SIR
 
@@ -60,11 +60,11 @@ cancer.stomach.female<-cancer.stomach%>%
 cancer.stomach.persons<-cancer.stomach%>%
   filter(Sex_code==3)
 cancer.stomach.male<-cancer.stomach.male%>%
-  rename(y.stomach.male=p50, sd.stomach.male=sd)
+  rename(c("p50"="y.stomach.male","sd"="sd.stomach.male"))
 cancer.stomach.female<-cancer.stomach.female%>%
-  rename(y.stomach.female=p50, sd.stomach.female=sd)
+  rename(c("p50"="y.stomach.female", "sd"="sd.stomach.female"))
 cancer.stomach.persons<-cancer.stomach.persons%>%
-  rename(y.stomach.persons=p50, sd.stomach.persons=sd)
+  rename(c("p50"="y.stomach.persons", "sd"="sd.stomach.persons"))
 stomach.model.data<-inner_join(cancer.stomach.male,cancer.stomach.female,by="SA2_code")
 stomach.model.data<-inner_join(stomach.model.data,cancer.stomach.persons,by="SA2_code")
 stomach.model.data<-stomach.model.data%>%
@@ -83,11 +83,11 @@ cancer.colorectal.female<-cancer.colorectal%>%
 cancer.colorectal.persons<-cancer.colorectal%>%
   filter(Sex_code==3)
 cancer.colorectal.male<-cancer.colorectal.male%>%
-  rename(y.colorectal.male=p50, sd.colorectal.male=sd)
+  rename(c("p50"="y.colorectal.male", "sd"="sd.colorectal.male"))
 cancer.colorectal.female<-cancer.colorectal.female%>%
-  rename(y.colorectal.female=p50, sd.colorectal.female=sd)
+  rename(c("p50"="y.colorectal.female", "sd"="sd.colorectal.female"))
 cancer.colorectal.persons<-cancer.colorectal.persons%>%
-  rename(y.colorectal.persons=p50, sd.colorectal.persons=sd)
+  rename(c("p50"="y.colorectal.persons","sd"="sd.colorectal.persons"))
 colorectal.model.data<-inner_join(cancer.colorectal.male,cancer.colorectal.female,by="SA2_code")
 colorectal.model.data<-inner_join(colorectal.model.data,cancer.colorectal.persons,by="SA2_code")
 colorectal.model.data<-colorectal.model.data%>%
@@ -106,11 +106,11 @@ cancer.liver.female<-cancer.liver%>%
 cancer.liver.persons<-cancer.liver%>%
   filter(Sex_code==3)
 cancer.liver.male<-cancer.liver.male%>%
-  rename(y.liver.male=p50, sd.liver.male=sd)
+  rename(c("p50"="y.liver.male", "sd"="sd.liver.male"))
 cancer.liver.female<-cancer.liver.female%>%
-  rename(y.liver.female=p50, sd.liver.female=sd)
+  rename(c("p50"="y.liver.female","sd"=" sd.liver.female"))
 cancer.liver.persons<-cancer.liver.persons%>%
-  rename(y.liver.persons=p50, sd.liver.persons=sd)
+  rename(c("p50"="y.liver.persons", "sd"="sd.liver.persons"))
 liver.model.data<-inner_join(cancer.liver.male,cancer.liver.female,by="SA2_code")
 liver.model.data<-inner_join(liver.model.data,cancer.liver.persons,by="SA2_code")
 liver.model.data<-liver.model.data%>%
@@ -129,11 +129,11 @@ cancer.pncr.female<-cancer.pncr%>%
 cancer.pncr.persons<-cancer.pncr%>%
   filter(Sex_code==3)
 cancer.pncr.male<-cancer.pncr.male%>%
-  rename(y.pncr.male=p50, sd.pncr.male=sd)
+  rename(c("p50"="y.pncr.male", "sd"="sd.pncr.male"))
 cancer.pncr.female<-cancer.pncr.female%>%
-  rename(y.pncr.female=p50, sd.pncr.female=sd)
+  rename(c("p50"="y.pncr.female","sd"="sd.pncr.female"))
 cancer.pncr.persons<-cancer.pncr.persons%>%
-  rename(y.pncr.persons=p50, sd.pncr.persons=sd)
+  rename(c("p50"="y.pncr.persons", sd="sd.pncr.persons"))
 pncr.model.data<-inner_join(cancer.pncr.male,cancer.pncr.female,by="SA2_code")
 pncr.model.data<-inner_join(pncr.model.data,cancer.pncr.persons,by="SA2_code")
 pncr.model.data<-pncr.model.data%>%
@@ -152,11 +152,11 @@ cancer.lung.female<-cancer.lung%>%
 cancer.lung.persons<-cancer.lung%>%
   filter(Sex_code==3)
 cancer.lung.male<-cancer.lung.male%>%
-  rename(y.lung.male=p50, sd.lung.male=sd)
+  rename(c("p50"="y.lung.male","sd"="sd.lung.male"))
 cancer.lung.female<-cancer.lung.female%>%
-  rename(y.lung.female=p50, sd.lung.female=sd)
+  rename(c("p50"="y.lung.female", "sd"="sd.lung.female"))
 cancer.lung.persons<-cancer.lung.persons%>%
-  rename(y.lung.persons=p50, sd.lung.persons=sd)
+  rename(c("p50"="y.lung.persons","sd"="sd.lung.persons"))
 lung.model.data<-inner_join(cancer.lung.male,cancer.lung.female,by="SA2_code")
 lung.model.data<-inner_join(lung.model.data,cancer.lung.persons,by="SA2_code")
 lung.model.data<-lung.model.data%>%
@@ -175,11 +175,11 @@ cancer.melanoma.female<-cancer.melanoma%>%
 cancer.melanoma.persons<-cancer.melanoma%>%
   filter(Sex_code==3)
 cancer.melanoma.male<-cancer.melanoma.male%>%
-  rename(y.melanoma.male=p50, sd.melanoma.male=sd)
+  rename(c("p50"="y.melanoma.male","sd"="sd.melanoma.male"))
 cancer.melanoma.female<-cancer.melanoma.female%>%
-  rename(y.melanoma.female=p50, sd.melanoma.female=sd)
+  rename(c("p50"="y.melanoma.female", "sd"="sd.melanoma.female"))
 cancer.melanoma.persons<-cancer.melanoma.persons%>%
-  rename(y.melanoma.persons=p50, sd.melanoma.persons=sd)
+  rename(c("p50"="y.melanoma.persons","sd"=" sd.melanoma.persons"))
 melanoma.model.data<-inner_join(cancer.melanoma.male,cancer.melanoma.female,by="SA2_code")
 melanoma.model.data<-inner_join(melanoma.model.data,cancer.melanoma.persons,by="SA2_code")
 melanoma.model.data<-melanoma.model.data%>%
@@ -197,7 +197,7 @@ cancer.breast.female<-cancer.breast%>%
 
 
 cancer.breast.female<-cancer.breast.female%>%
-  rename(y.breast.female=p50, sd.breast.female=sd)
+  rename(c("p50"="y.breast.female","sd"="sd.breast.female"))
 
 breast.model.data<-cancer.breast.female
 breast.model.data<-breast.model.data%>%
@@ -232,7 +232,7 @@ cancer.uterine.female<-cancer.uterine%>%
 
 
 cancer.uterine.female<-cancer.uterine.female%>%
-  rename(y.uterine.female=p50, sd.uterine.female=sd)
+  rename(c("p50"="y.uterine.female", "sd"="sd.uterine.female"))
 
 uterine.model.data<-cancer.uterine.female
 uterine.model.data<-uterine.model.data%>%
@@ -250,7 +250,7 @@ cancer.ovarian.female<-cancer.ovarian%>%
 
 
 cancer.ovarian.female<-cancer.ovarian.female%>%
-  rename(y.ovarian.female=p50, sd.ovarian.female=sd)
+  rename(c("p50"="y.ovarian.female", "sd"="sd.ovarian.female"))
 
 ovarian.model.data<-cancer.ovarian.female
 ovarian.model.data<-ovarian.model.data%>%
@@ -268,7 +268,7 @@ cancer.prostate.male<-cancer.prostate%>%
 
 
 cancer.prostate.male<-cancer.prostate.male%>%
-  rename(y.prostate.male=p50, sd.prostate.male=sd)
+  rename(c("p50"="y.prostate.male","sd"="sd.prostate.male"))
 
 prostate.model.data<-cancer.prostate.male
 prostate.model.data<-prostate.model.data%>%
@@ -287,11 +287,11 @@ cancer.kidney.female<-cancer.kidney%>%
 cancer.kidney.persons<-cancer.kidney%>%
   filter(Sex_code==3)
 cancer.kidney.male<-cancer.kidney.male%>%
-  rename(y.kidney.male=p50, sd.kidney.male=sd)
+  rename(c("p50"="y.kidney.male","sd"="sd.kidney.male"))
 cancer.kidney.female<-cancer.kidney.female%>%
-  rename(y.kidney.female=p50, sd.kidney.female=sd)
+  rename(c("p50"="y.kidney.female", "sd"="sd.kidney.female"))
 cancer.kidney.persons<-cancer.kidney.persons%>%
-  rename(y.kidney.persons=p50, sd.kidney.persons=sd)
+  rename(c("p50"="y.kidney.persons", "sd"="sd.kidney.persons"))
 kidney.model.data<-inner_join(cancer.kidney.male,cancer.kidney.female,by="SA2_code")
 kidney.model.data<-inner_join(kidney.model.data,cancer.kidney.persons,by="SA2_code")
 kidney.model.data<-kidney.model.data%>%
@@ -309,11 +309,11 @@ cancer.brain.female<-cancer.brain%>%
 cancer.brain.persons<-cancer.brain%>%
   filter(Sex_code==3)
 cancer.brain.male<-cancer.brain.male%>%
-  rename(y.brain.male=p50, sd.brain.male=sd)
+  rename(c("p50"="y.brain.male","sd"="sd.brain.male"))
 cancer.brain.female<-cancer.brain.female%>%
-  rename(y.brain.female=p50, sd.brain.female=sd)
+  rename(c("p50"="y.brain.female","sd"="sd.brain.female"))
 cancer.brain.persons<-cancer.brain.persons%>%
-  rename(y.brain.persons=p50, sd.brain.persons=sd)
+  rename(c("p50"="y.brain.persons", "sd"="sd.brain.persons"))
 brain.model.data<-inner_join(cancer.brain.male,cancer.brain.female,by="SA2_code")
 brain.model.data<-inner_join(brain.model.data,cancer.brain.persons,by="SA2_code")
 brain.model.data<-brain.model.data%>%
@@ -332,11 +332,11 @@ cancer.thyroid.female<-cancer.thyroid%>%
 cancer.thyroid.persons<-cancer.thyroid%>%
   filter(Sex_code==3)
 cancer.thyroid.male<-cancer.thyroid.male%>%
-  rename(y.thyroid.male=p50, sd.thyroid.male=sd)
+  rename(c("p50"="y.thyroid.male", "sd"="sd.thyroid.male"))
 cancer.thyroid.female<-cancer.thyroid.female%>%
-  rename(y.thyroid.female=p50, sd.thyroid.female=sd)
+  rename(c("p50"="y.thyroid.female", "sd"="sd.thyroid.female"))
 cancer.thyroid.persons<-cancer.thyroid.persons%>%
-  rename(y.thyroid.persons=p50, sd.thyroid.persons=sd)
+  rename(c("p50"="y.thyroid.persons","sd"="sd.thyroid.persons"))
 thyroid.model.data<-inner_join(cancer.thyroid.male,cancer.thyroid.female,by="SA2_code")
 thyroid.model.data<-inner_join(thyroid.model.data,cancer.thyroid.persons,by="SA2_code")
 thyroid.model.data<-thyroid.model.data%>%
@@ -355,11 +355,11 @@ cancer.nh_lymph.female<-cancer.nh_lymph%>%
 cancer.nh_lymph.persons<-cancer.nh_lymph%>%
   filter(Sex_code==3)
 cancer.nh_lymph.male<-cancer.nh_lymph.male%>%
-  rename(y.nh_lymph.male=p50, sd.nh_lymph.male=sd)
+  rename(c("p50"="y.nh_lymph.male","sd"="sd.nh_lymph.male"))
 cancer.nh_lymph.female<-cancer.nh_lymph.female%>%
-  rename(y.nh_lymph.female=p50, sd.nh_lymph.female=sd)
+  rename(c("p50"="y.nh_lymph.female", "sd"="sd.nh_lymph.female"))
 cancer.nh_lymph.persons<-cancer.nh_lymph.persons%>%
-  rename(y.nh_lymph.persons=p50, sd.nh_lymph.persons=sd)
+  rename(c("p50"="y.nh_lymph.persons", "sd"="sd.nh_lymph.persons"))
 nh_lymph.model.data<-inner_join(cancer.nh_lymph.male,cancer.nh_lymph.female,by="SA2_code")
 nh_lymph.model.data<-inner_join(nh_lymph.model.data,cancer.nh_lymph.persons,by="SA2_code")
 nh_lymph.model.data<-nh_lymph.model.data%>%
@@ -378,11 +378,11 @@ cancer.leukaemia.female<-cancer.leukaemia%>%
 cancer.leukaemia.persons<-cancer.leukaemia%>%
   filter(Sex_code==3)
 cancer.leukaemia.male<-cancer.leukaemia.male%>%
-  rename(y.leukaemia.male=p50, sd.leukaemia.male=sd)
+  rename(c("p50"="y.leukaemia.male","sd"="sd.leukaemia.male"))
 cancer.leukaemia.female<-cancer.leukaemia.female%>%
-  rename(y.leukaemia.female=p50, sd.leukaemia.female=sd)
+  rename(c("p50"="y.leukaemia.female","sd"="sd.leukaemia.female"))
 cancer.leukaemia.persons<-cancer.leukaemia.persons%>%
-  rename(y.leukaemia.persons=p50, sd.leukaemia.persons=sd)
+  rename(c("p50"="y.leukaemia.persons","sd"="sd.leukaemia.persons"))
 leukaemia.model.data<-inner_join(cancer.leukaemia.male,cancer.leukaemia.female,by="SA2_code")
 leukaemia.model.data<-inner_join(leukaemia.model.data,cancer.leukaemia.persons,by="SA2_code")
 leukaemia.model.data<-leukaemia.model.data%>%
@@ -401,11 +401,11 @@ cancer.myeloma.female<-cancer.myeloma%>%
 cancer.myeloma.persons<-cancer.myeloma%>%
   filter(Sex_code==3)
 cancer.myeloma.male<-cancer.myeloma.male%>%
-  rename(y.myeloma.male=p50, sd.myeloma.male=sd)
+  rename(c("p50"="y.myeloma.male","sd"="sd.myeloma.male"))
 cancer.myeloma.female<-cancer.myeloma.female%>%
-  rename(y.myeloma.female=p50, sd.myeloma.female=sd)
+  rename(c("p50"="y.myeloma.female","sd"="sd.myeloma.female"))
 cancer.myeloma.persons<-cancer.myeloma.persons%>%
-  rename(y.myeloma.persons=p50, sd.myeloma.persons=sd)
+  rename(c("p50"="y.myeloma.persons", "sd"="sd.myeloma.persons"))
 myeloma.model.data<-inner_join(cancer.myeloma.male,cancer.myeloma.female,by="SA2_code")
 myeloma.model.data<-inner_join(myeloma.model.data,cancer.myeloma.persons,by="SA2_code")
 myeloma.model.data<-myeloma.model.data%>%
@@ -424,11 +424,11 @@ cancer.all.female<-cancer.all%>%
 cancer.all.persons<-cancer.all%>%
   filter(Sex_code==3)
 cancer.all.male<-cancer.all.male%>%
-  rename(y.all.male=p50, sd.all.male=sd)
+  rename(c("p50"="y.all.male","sd"="sd.all.male"))
 cancer.all.female<-cancer.all.female%>%
-  rename(y.all.female=p50, sd.all.female=sd)
+  rename(c("p50"="y.all.female", "sd"="sd.all.female"))
 cancer.all.persons<-cancer.all.persons%>%
-  rename(y.all.persons=p50, sd.all.persons=sd)
+  rename(c("p50"="y.all.persons", "sd"="sd.all.persons"))
 all.model.data<-inner_join(cancer.all.male,cancer.all.female,by="SA2_code")
 all.model.data<-inner_join(all.model.data,cancer.all.persons,by="SA2_code")
 all.model.data<-all.model.data%>%
@@ -447,11 +447,11 @@ cancer.head_neck.female<-cancer.head_neck%>%
 cancer.head_neck.persons<-cancer.head_neck%>%
   filter(Sex_code==3)
 cancer.head_neck.male<-cancer.head_neck.male%>%
-  rename(y.head_neck.male=p50, sd.head_neck.male=sd)
+  rename(c("p50"="y.head_neck.male","sd"="sd.head_neck.male"))
 cancer.head_neck.female<-cancer.head_neck.female%>%
-  rename(y.head_neck.female=p50, sd.head_neck.female=sd)
+  rename(c("p50"="y.head_neck.female","sd"="sd.head_neck.female"))
 cancer.head_neck.persons<-cancer.head_neck.persons%>%
-  rename(y.head_neck.persons=p50, sd.head_neck.persons=sd)
+  rename(c("p50"="y.head_neck.persons","sd"="sd.head_neck.persons"))
 head_neck.model.data<-inner_join(cancer.head_neck.male,cancer.head_neck.female,by="SA2_code")
 head_neck.model.data<-inner_join(head_neck.model.data,cancer.head_neck.persons,by="SA2_code")
 head_neck.model.data<-head_neck.model.data%>%
@@ -459,12 +459,16 @@ head_neck.model.data<-head_neck.model.data%>%
 summary(head_neck.model.data)
 write_csv(head_neck.model.data,"head_neck.data.csv")
 
+a<- ggplot(data=all.model.data,aes(sample=y.all.male))+stat_qq()+stat_qq_line()+labs(main="Checking normality of all cancer survival (male)")+theme_bw()
 
+b<- ggplot(data=all.model.data,aes(sample=y.all.female))+stat_qq()+stat_qq_line()+labs(
+                      main="Checking normality of all cancer survival (male)")+theme_bw()
 
-
-
-
-
+c<- ggplot(data=brain.model.data,aes(sample=y.brain.male))+stat_qq()+stat_qq_line()+labs(main="Checking normality of brain cancer survival (male)")+theme_bw()
+d<- ggplot(data=brain.model.data,aes(sample=y.brain.female))+stat_qq()+stat_qq_line()+labs(
+  main="Checking normality of brain cancer survival (male)")+theme_bw()
+library(ggpubr)
+ggarrange(a,b,c,d,nrow=2,ncol=2)
 
 
 
