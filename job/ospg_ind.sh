@@ -3,7 +3,7 @@
 #PBS -N SBEL-ospg-male-surv
 #PBS -l ncpus=3
 #PBS -l mem=20GB
-#PBS -l walltime=24:00:00
+#PBS -l walltime=36:00:00
 #PBS -l cpuarch=avx2
 #PBS -o SBEL-ospg-male-surv_stdout.out
 #PBS -e SBEL-ospg-male-surv_stderr.out
