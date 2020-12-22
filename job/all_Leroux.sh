@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#PBS -N SBEL-BYM-all-male-surv
+#PBS -N SBEL-leroux-all-male-surv
 #PBS -l ncpus=3
 #PBS -l mem=20GB
 #PBS -l walltime=36:00:00
