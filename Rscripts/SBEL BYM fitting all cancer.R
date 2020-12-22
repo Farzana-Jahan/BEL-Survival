@@ -30,7 +30,7 @@ all.model.data<-mutate(all.model.data,cities=ifelse(region==1,1,0),
                         remote=ifelse(region==3,1,0))
 y<- all.model.data$y.all.male
 n<-length(y)
-x<-cbind(all.model.data$cities,all.model.data$regional,all.model.data$remote)
+x<-cbBYM(all.model.data$cities,all.model.data$regional,all.model.data$remote)
 p<- dim(x)[2] # no. of covariates
 
 # changing initial value from last fit
@@ -55,30 +55,30 @@ beta_init<-beta_mele
 wi_mu<- el.test(y-mu_init,0)$wts # computing el weights using emplik package
 wi_mu<-wi_mu/sum(wi_mu) # sum(wi) = 1 and wi>0 constraints 
 wi<-wi_mu
-# SBEL ind
+# SBEL BYM
 # fitting BEL BYM model taking rho= 1
 library(parallel)
 cluster<-makeCluster(3)
 #clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
 clusterEvalQ(cl=cluster,library(BELSpatial))
 clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init","R", "wi"))
-SBEL_ind_all_male_surv<-clusterApply(cl=cluster, x=1:3, function(z){BEL_leroux_new(y,x,n,p,var,rho=1,niter=1000,
+SBEL_BYM_all_male_surv<-clusterApply(cl=cluster, x=1:3, function(z){BEL_leroux_new(y,x,n,p,var,rho=1,niter=1000,
                                                                                     beta_init, psi_init, tau_init,R, wi, sd_psi=0.006, 
                                                                                     sd_beta=0.0009, sd_tau=0.4)})
 #Checkpoint 1
-save(SBEL_ind_all_male_surv,file="Results/SBEL_ind_all_male_surv_1000.RData")
+save(SBEL_BYM_all_male_surv,file="Results/SBEL_BYM_all_male_surv_1000.RData")
 
 # changing initial value from last fit
 # using IG prior(1,1) for tau_inv
-tau_init<- mean(c(SBEL_ind_all_male_surv[[1]]$tau[1000],SBEL_ind_all_male_surv[[2]]$tau[1000],
-                  SBEL_ind_all_male_surv[[3]]$tau[1000]))
+tau_init<- mean(c(SBEL_BYM_all_male_surv[[1]]$tau[1000],SBEL_BYM_all_male_surv[[2]]$tau[1000],
+                  SBEL_BYM_all_male_surv[[3]]$tau[1000]))
 g<- 10# G prior evaluated at 10 for regression coefficients' prior (Zellner prior)
 prior_mean_beta<- rep(0,p) # p is the number of regression parameters, in case of one covariate, p=2
-beta_init<- colMeans(matrix(c(SBEL_ind_all_male_surv[[1]]$Beta[,1000],SBEL_ind_all_male_surv[[2]]$Beta[,1000],
-                              SBEL_ind_all_male_surv[[3]]$Beta[,1000]),nrow=3,byrow = F))
+beta_init<- colMeans(matrix(c(SBEL_BYM_all_male_surv[[1]]$Beta[,1000],SBEL_BYM_all_male_surv[[2]]$Beta[,1000],
+                              SBEL_BYM_all_male_surv[[3]]$Beta[,1000]),nrow=3,byrow = F))
 # y be the response variable from the data
-psi_init <- colMeans(matrix(c(SBEL_ind_all_male_surv[[1]]$psi[,1000],SBEL_ind_all_male_surv[[2]]$psi[,1000],
-                              SBEL_ind_all_male_surv[[3]]$psi[,1000]),nrow=2148,byrow = F))
+psi_init <- colMeans(matrix(c(SBEL_BYM_all_male_surv[[1]]$psi[,1000],SBEL_BYM_all_male_surv[[2]]$psi[,1000],
+                              SBEL_BYM_all_male_surv[[3]]$psi[,1000]),nrow=2148,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
@@ -87,30 +87,30 @@ mu_init<- x%*% beta_init+ psi_init
 wi_mu<- el.test(y-mu_init,0)$wts # computing el weights using emplik package
 wi<-wi_mu/sum(wi_mu) # sum(wi) = 1 and wi>0 constraints 
 
-# SBEL ind
+# SBEL BYM
 # fitting BEL BYM model taking rho= 1
 library(parallel)
 cluster<-makeCluster(3)
 #clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
 clusterEvalQ(cl=cluster,library(BELSpatial))
 clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init","R", "wi"))
-SBEL_ind_all_male_surv2<-clusterApply(cl=cluster, x=1:3, function(z){BEL_leroux_new(y,x,n,p,var,rho=1,niter=1000,
+SBEL_BYM_all_male_surv2<-clusterApply(cl=cluster, x=1:3, function(z){BEL_leroux_new(y,x,n,p,var,rho=1,niter=1000,
                                                                                      beta_init, psi_init, tau_init,R, wi, sd_psi=0.006, 
                                                                                      sd_beta=0.0009, sd_tau=0.4)})
 #Checkpoint 2
-save(SBEL_ind_all_male_surv2,file="Results/SBEL_ind_all_male_surv_2000.RData")
+save(SBEL_BYM_all_male_surv2,file="Results/SBEL_BYM_all_male_surv_2000.RData")
 
 # changing initial value from last fit
 # using IG prior(1,1) for tau_inv
-tau_init<- mean(c(SBEL_ind_all_male_surv2[[1]]$tau[1000],SBEL_ind_all_male_surv2[[2]]$tau[1000],
-                  SBEL_ind_all_male_surv2[[3]]$tau[1000]))
+tau_init<- mean(c(SBEL_BYM_all_male_surv2[[1]]$tau[1000],SBEL_BYM_all_male_surv2[[2]]$tau[1000],
+                  SBEL_BYM_all_male_surv2[[3]]$tau[1000]))
 g<- 10# G prior evaluated at 10 for regression coefficients' prior (Zellner prior)
 prior_mean_beta<- rep(0,p) # p is the number of regression parameters, in case of one covariate, p=2
-beta_init<- colMeans(matrix(c(SBEL_ind_all_male_surv2[[1]]$Beta[,1000],SBEL_ind_all_male_surv2[[2]]$Beta[,1000],
-                              SBEL_ind_all_male_surv2[[3]]$Beta[,1000]),nrow=3,byrow = F))
+beta_init<- colMeans(matrix(c(SBEL_BYM_all_male_surv2[[1]]$Beta[,1000],SBEL_BYM_all_male_surv2[[2]]$Beta[,1000],
+                              SBEL_BYM_all_male_surv2[[3]]$Beta[,1000]),nrow=3,byrow = F))
 # y be the response variable from the data
-psi_init <- colMeans(matrix(c(SBEL_ind_all_male_surv2[[1]]$psi[,1000],SBEL_ind_all_male_surv2[[2]]$psi[,1000],
-                              SBEL_ind_all_male_surv2[[3]]$psi[,1000]),nrow=2148,byrow = F))
+psi_init <- colMeans(matrix(c(SBEL_BYM_all_male_surv2[[1]]$psi[,1000],SBEL_BYM_all_male_surv2[[2]]$psi[,1000],
+                              SBEL_BYM_all_male_surv2[[3]]$psi[,1000]),nrow=2148,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
@@ -119,30 +119,30 @@ mu_init<- x%*% beta_init+ psi_init
 wi_mu<- el.test(y-mu_init,0)$wts # computing el weights using emplik package
 wi<-wi_mu/sum(wi_mu) # sum(wi) = 1 and wi>0 constraints 
 
-# SBEL ind
+# SBEL BYM
 # fitting BEL BYM model taking rho= 1
 library(parallel)
 cluster<-makeCluster(3)
 #clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
 clusterEvalQ(cl=cluster,library(BELSpatial))
 clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init","R", "wi"))
-SBEL_ind_all_male_surv3<-clusterApply(cl=cluster, x=1:3, function(z){BEL_leroux_new(y,x,n,p,var,rho=1,niter=1000,
+SBEL_BYM_all_male_surv3<-clusterApply(cl=cluster, x=1:3, function(z){BEL_leroux_new(y,x,n,p,var,rho=1,niter=1000,
                                                                                      beta_init, psi_init, tau_init,R, wi, sd_psi=0.006, 
                                                                                      sd_beta=0.0009, sd_tau=0.4)})
 #Checkpoint 3
-save(SBEL_ind_all_male_surv3,file="Results/SBEL_ind_all_male_surv_3000.RData")
+save(SBEL_BYM_all_male_surv3,file="Results/SBEL_BYM_all_male_surv_3000.RData")
 
 # changing initial value from last fit
 # using IG prior(1,1) for tau_inv
-tau_init<- mean(c(SBEL_ind_all_male_surv3[[1]]$tau[1000],SBEL_ind_all_male_surv3[[2]]$tau[1000],
-                  SBEL_ind_all_male_surv3[[3]]$tau[1000]))
+tau_init<- mean(c(SBEL_BYM_all_male_surv3[[1]]$tau[1000],SBEL_BYM_all_male_surv3[[2]]$tau[1000],
+                  SBEL_BYM_all_male_surv3[[3]]$tau[1000]))
 g<- 10# G prior evaluated at 10 for regression coefficients' prior (Zellner prior)
 prior_mean_beta<- rep(0,p) # p is the number of regression parameters, in case of one covariate, p=2
-beta_init<- colMeans(matrix(c(SBEL_ind_all_male_surv3[[1]]$Beta[,1000],SBEL_ind_all_male_surv3[[2]]$Beta[,1000],
-                              SBEL_ind_all_male_surv3[[3]]$Beta[,1000]),nrow=3,byrow = F))
+beta_init<- colMeans(matrix(c(SBEL_BYM_all_male_surv3[[1]]$Beta[,1000],SBEL_BYM_all_male_surv3[[2]]$Beta[,1000],
+                              SBEL_BYM_all_male_surv3[[3]]$Beta[,1000]),nrow=3,byrow = F))
 # y be the response variable from the data
-psi_init <- colMeans(matrix(c(SBEL_ind_all_male_surv3[[1]]$psi[,1000],SBEL_ind_all_male_surv3[[2]]$psi[,1000],
-                              SBEL_ind_all_male_surv3[[3]]$psi[,1000]),nrow=2148,byrow = F))
+psi_init <- colMeans(matrix(c(SBEL_BYM_all_male_surv3[[1]]$psi[,1000],SBEL_BYM_all_male_surv3[[2]]$psi[,1000],
+                              SBEL_BYM_all_male_surv3[[3]]$psi[,1000]),nrow=2148,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
@@ -151,30 +151,30 @@ mu_init<- x%*% beta_init+ psi_init
 wi_mu<- el.test(y-mu_init,0)$wts # computing el weights using emplik package
 wi<-wi_mu/sum(wi_mu) # sum(wi) = 1 and wi>0 constraints 
 
-# SBEL ind
+# SBEL BYM
 # fitting BEL BYM model taking rho= 1
 library(parallel)
 cluster<-makeCluster(3)
 #clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
 clusterEvalQ(cl=cluster,library(BELSpatial))
 clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init","R", "wi"))
-SBEL_ind_all_male_surv4<-clusterApply(cl=cluster, x=1:3, function(z){BEL_leroux_new(y,x,n,p,var,rho=1,niter=1000,
+SBEL_BYM_all_male_surv4<-clusterApply(cl=cluster, x=1:3, function(z){BEL_leroux_new(y,x,n,p,var,rho=1,niter=1000,
                                                                                     beta_init, psi_init, tau_init,R, wi, sd_psi=0.006, 
                                                                                     sd_beta=0.0009, sd_tau=0.4)})
 #Checkpoint 4
-save(SBEL_ind_all_male_surv4,file="Results/SBEL_ind_all_male_surv_4000.RData")
+save(SBEL_BYM_all_male_surv4,file="Results/SBEL_BYM_all_male_surv_4000.RData")
 
 # changing initial value from last fit
 # using IG prior(1,1) for tau_inv
-tau_init<- mean(c(SBEL_ind_all_male_surv4[[1]]$tau[1000],SBEL_ind_all_male_surv4[[2]]$tau[1000],
-                  SBEL_ind_all_male_surv4[[3]]$tau[1000]))
+tau_init<- mean(c(SBEL_BYM_all_male_surv4[[1]]$tau[1000],SBEL_BYM_all_male_surv4[[2]]$tau[1000],
+                  SBEL_BYM_all_male_surv4[[3]]$tau[1000]))
 g<- 10# G prior evaluated at 10 for regression coefficients' prior (Zellner prior)
 prior_mean_beta<- rep(0,p) # p is the number of regression parameters, in case of one covariate, p=2
-beta_init<- colMeans(matrix(c(SBEL_ind_all_male_surv4[[1]]$Beta[,1000],SBEL_ind_all_male_surv4[[2]]$Beta[,1000],
-                              SBEL_ind_all_male_surv4[[3]]$Beta[,1000]),nrow=3,byrow = F))
+beta_init<- colMeans(matrix(c(SBEL_BYM_all_male_surv4[[1]]$Beta[,1000],SBEL_BYM_all_male_surv4[[2]]$Beta[,1000],
+                              SBEL_BYM_all_male_surv4[[3]]$Beta[,1000]),nrow=3,byrow = F))
 # y be the response variable from the data
-psi_init <- colMeans(matrix(c(SBEL_ind_all_male_surv4[[1]]$psi[,1000],SBEL_ind_all_male_surv4[[2]]$psi[,1000],
-                              SBEL_ind_all_male_surv4[[3]]$psi[,1000]),nrow=2148,byrow = F))
+psi_init <- colMeans(matrix(c(SBEL_BYM_all_male_surv4[[1]]$psi[,1000],SBEL_BYM_all_male_surv4[[2]]$psi[,1000],
+                              SBEL_BYM_all_male_surv4[[3]]$psi[,1000]),nrow=2148,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
@@ -183,21 +183,19 @@ mu_init<- x%*% beta_init+ psi_init
 wi_mu<- el.test(y-mu_init,0)$wts # computing el weights using emplik package
 wi<-wi_mu/sum(wi_mu) # sum(wi) = 1 and wi>0 constraints 
 
-# SBEL ind
+# SBEL BYM
 # fitting BEL BYM model taking rho= 1
 library(parallel)
 cluster<-makeCluster(3)
 #clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
 clusterEvalQ(cl=cluster,library(BELSpatial))
 clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init","R", "wi"))
-SBEL_ind_all_male_surv5<-clusterApply(cl=cluster, x=1:3, function(z){BEL_leroux_new(y,x,n,p,var,rho=1,niter=1000,
+SBEL_BYM_all_male_surv5<-clusterApply(cl=cluster, x=1:3, function(z){BEL_leroux_new(y,x,n,p,var,rho=1,niter=1000,
                                                                     beta_init, psi_init, tau_init,R, wi, sd_psi=0.006, 
                                                                     sd_beta=0.0009, sd_tau=0.4)})
 #Checkpoint 5
-save(SBEL_ind_all_male_surv5,file="Results/SBEL_ind_all_male_surv_5000.RData")
+save(SBEL_BYM_all_male_surv5,file="Results/SBEL_BYM_all_male_surv_5000.RData")
 
-SBEL<-BEL_leroux_new(y,x,n,p,var,rho=1,niter=50,
-               beta_init, psi_init, tau_init,R, wi, sd_psi=0.006, 
-               sd_beta=0.0009, sd_tau=0.4)
+
 
 
