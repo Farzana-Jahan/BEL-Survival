@@ -1,4 +1,5 @@
 ## Fitting model to survival data using BELSpatial package and SBEL models
+#.libPaths("c:/software/Rpackages")
 library(tidyverse)
 library(plyr)
 #library(spdep)

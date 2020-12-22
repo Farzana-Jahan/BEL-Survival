@@ -1,5 +1,5 @@
 # loading result of ind SBEL for ospg survival
-
+.libPaths("c:/software/Rpackages")
 load("U:/Research/Projects/sef/bayes_meta_el/SBEL_BYM_ospg_male_surv_1000.RData")
 SBEL_ind_ospg_male_surv<-SBEL_BYM_ospg_male_surv
 par(mfrow=c(2,2))

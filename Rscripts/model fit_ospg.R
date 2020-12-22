@@ -1,9 +1,15 @@
-# exploring data
-#ospg survival male
-ospg.model.data<- read_csv("Data/ospg.data.csv")
-head(ospg.model.data)
+.libPaths("c:/software/Rpackages")
 library(tidyverse)
-ggplot(data=ospg.model.data, aes(x= y.ospg.male))+geom_density()+theme_bw()
+library(plyr)
+#library(spdep)
+library(gmm)
+library(CARBayes)
+# exploring data
+#all survival male
+all.model.data<- read_csv("Data/all.data.csv")
+head(all.model.data)
+library(tidyverse)
+ggplot(data=all.model.data, aes(x= y.all.male))+geom_density()+theme_bw()
 
 # adding neighbourhood matrix
 W<- readRDS("Data/W.RDS")
@@ -18,26 +24,26 @@ summary(cov$region)
 head(cov)
 library(dplyr)
 cov<-rename(cov,c("sa2"="SA2_code"))
-ospg.model.data<- inner_join(ospg.model.data,cov,by="SA2_code")
-write_csv(ospg.model.data,"Data/ospg.data.csv")
+all.model.data<- inner_join(all.model.data,cov,by="SA2_code")
+#write_csv(all.model.data,"Data/all.data.csv")
 # Parametric Model fit
 
 library(CARBayes)
-ospg.model.data$region<-factor(ospg.model.data$region)
-param_BYM<-S.CARleroux(y.ospg.male~region-1, data=ospg.model.data,W= W, family="gaussian",rho=1, n.sample = 100000,
+all.model.data$region<-factor(all.model.data$region)
+param_BYM<-S.CARleroux(y.all.male~region-1, data=all.model.data,W= W, family="gaussian",rho=1, n.sample = 100000,
                        burnin = 10000,thin=1)
-save(param_BYM,"Results/ospg_BYM")
-param_Ind<-S.CARleroux(y.ospg.male~region-1, data=ospg.model.data,W= W, family="gaussian",rho=0, n.sample = 100000,
+save(param_BYM,file="Results/all_BYM.RData")
+param_Ind<-S.CARleroux(y.all.male~region-1, data=all.model.data,W= W, family="gaussian",rho=0, n.sample = 100000,
                        burnin = 10000,thin=1)
-save(param_Ind,"Results/ospg_Ind")
-param_Leroux<-S.CARleroux(y.ospg.male~region-1, data=ospg.model.data,W= W, family="gaussian", n.sample = 100000,
+save(param_Ind,file= "Results/all_Ind.RData")
+param_Leroux<-S.CARleroux(y.all.male~region-1, data=all.model.data,W= W, family="gaussian", n.sample = 100000,
                        burnin = 10000,thin=1)
-save(param_Leroux,"Results/ospg_Leroux")
-param_Leroux$modelfit
+save(param_Leroux,file= "Results/all_Leroux.RData")
+
 library(ngspatial)
-param_moranBasis<-sparse.sglmm(y.ospg.male~region-1,data=ospg.model.data,A= W,
+param_moranBasis<-sparse.sglmm(y.all.male~region-1,data=all.model.data,A= W,
                                family="gaussian",minit = 10000, maxit=100000)
-save(param_moranBasis,"Results/ospg_moranBasis")
+save(param_moranBasis,file= "Results/all_moranBasis.RData")
 
 # calcuation of WAIC and formatting paramteric output
 thin_param_MCMC<- function(output,burnin=10000,thin=10)
