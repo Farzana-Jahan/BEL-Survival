@@ -30,7 +30,7 @@ all.model.data<-mutate(all.model.data,cities=ifelse(region==1,1,0),
                         remote=ifelse(region==3,1,0))
 y<- all.model.data$y.all.male
 n<-length(y)
-x<-cbLeroux(all.model.data$cities,all.model.data$regional,all.model.data$remote)
+x<-cbind(all.model.data$cities,all.model.data$regional,all.model.data$remote)
 p<- dim(x)[2] # no. of covariates
 
 # changing initial value from last fit
