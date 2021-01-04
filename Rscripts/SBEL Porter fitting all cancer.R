@@ -105,7 +105,8 @@ library(parallel)
 cluster<-makeCluster(3)
 #clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
 clusterEvalQ(cl=cluster,library(BELSpatial))
-clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init","R", "wi"))
+clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init"
+                                                                ,"B","B_plus","q","M","MBM", "wi"))
 Porter_all_male_surv<-clusterApply(cl=cluster, x=1:3, function(z){BSHEL(y,x,n,p,q,var,niter=1000,
                                                                         beta_init, psi_init, tau_init,
                                                                         M,MBM, wi, sd_psi=0.0005, 
@@ -172,7 +173,8 @@ library(parallel)
 cluster<-makeCluster(3)
 #clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
 clusterEvalQ(cl=cluster,library(BELSpatial))
-clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init","R", "wi"))
+clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init"
+                                                   ,"B","B_plus","q","M","MBM", "wi"))
 Porter_all_male_surv4<-clusterApply(cl=cluster, x=1:3, function(z){BSHEL(y,x,n,p,q,var,niter=1000,
                                                                          beta_init, psi_init, tau_init,
                                                                          M,MBM, wi, sd_psi=0.0005, 
@@ -205,7 +207,8 @@ library(parallel)
 cluster<-makeCluster(3)
 #clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
 clusterEvalQ(cl=cluster,library(BELSpatial))
-clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init","R", "wi"))
+clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init",
+                                   "B","B_plus","q","M","MBM", "wi"))
 Porter_all_male_surv5<-clusterApply(cl=cluster, x=1:3, function(z){BSHEL(y,x,n,p,q,var,niter=1000,
                                                                          beta_init, psi_init, tau_init,
                                                                          M,MBM, wi, sd_psi=0.0005, 
