@@ -89,8 +89,10 @@ prior_mean_beta<- rep(0,p) # p is the number of regression parameters, in case o
 beta_init<- colMeans(matrix(c(Porter_all_male_surv[[1]]$Beta[,1000],Porter_all_male_surv[[2]]$Beta[,1000],
                               Porter_all_male_surv[[3]]$Beta[,1000]),nrow=3,byrow = F))
 # y be the response variable from the data
-psi_init <- colMeans(matrix(c(M%*%Porter_all_male_surv[[1]]$psi[,1000],M%*%Porter_all_male_surv[[2]]$psi[,1000],
-                              M%*%Porter_all_male_surv[[3]]$psi[,1000]),nrow=2148,byrow = F))
+psi_1<-M%*%Porter_all_male_surv[[1]]$psi
+psi_2<-M%*%Porter_all_male_surv[[2]]$psi
+psi_3<-M%*%Porter_all_male_surv[[3]]$psi
+psi_init <- rowMeans(matrix(c(psi_1[,1000],psi_1[,1000],psi_3[,1000]),nrow=2148,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
@@ -103,7 +105,7 @@ wi<-wi_mu/sum(wi_mu) # sum(wi) = 1 and wi>0 constraints
 # fitting BEL Leroux model taking rho= 1
 library(parallel)
 cluster<-makeCluster(3)
-#clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
+clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
 clusterEvalQ(cl=cluster,library(BELSpatial))
 clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init"
                                                                 ,"B","B_plus","q","M","MBM", "wi"))
@@ -123,13 +125,15 @@ prior_mean_beta<- rep(0,p) # p is the number of regression parameters, in case o
 beta_init<- colMeans(matrix(c(Porter_all_male_surv2[[1]]$Beta[,1000],Porter_all_male_surv2[[2]]$Beta[,1000],
                               Porter_all_male_surv2[[3]]$Beta[,1000]),nrow=3,byrow = F))
 # y be the response variable from the data
-psi_init <- colMeans(matrix(c(M%*%Porter_all_male_surv2[[1]]$psi[,1000],M%*%Porter_all_male_surv2[[2]]$psi[,1000],
-                              M%*%Porter_all_male_surv2[[3]]$psi[,1000]),nrow=2148,byrow = F))
+psi_1<-M%*%Porter_all_male_surv2[[1]]$psi
+psi_2<-M%*%Porter_all_male_surv2[[2]]$psi
+psi_3<-M%*%Porter_all_male_surv2[[3]]$psi
+psi_init <- rowMeans(matrix(c(psi_1[,1000],psi_1[,1000],psi_3[,1000]),nrow=2148,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
 # using gmm package to calculate initial values of beta
-mu_init<- x%*% beta_init+ psi_init
+mu_init<- as.numeric(x%*% beta_init+ psi_init)
 wi_mu<- el.test(y-mu_init,0)$wts # computing el weights using emplik package
 wi<-wi_mu/sum(wi_mu) # sum(wi) = 1 and wi>0 constraints 
 
@@ -157,8 +161,10 @@ prior_mean_beta<- rep(0,p) # p is the number of regression parameters, in case o
 beta_init<- colMeans(matrix(c(Porter_all_male_surv3[[1]]$Beta[,1000],Porter_all_male_surv3[[2]]$Beta[,1000],
                               Porter_all_male_surv3[[3]]$Beta[,1000]),nrow=3,byrow = F))
 # y be the response variable from the data
-psi_init <- colMeans(matrix(c(M%*%Porter_all_male_surv3[[1]]$psi[,1000],M%*%Porter_all_male_surv3[[2]]$psi[,1000],
-                              M%*%Porter_all_male_surv3[[3]]$psi[,1000]),nrow=2148,byrow = F))
+psi_1<-M%*%Porter_all_male_surv3[[1]]$psi
+psi_2<-M%*%Porter_all_male_surv3[[2]]$psi
+psi_3<-M%*%Porter_all_male_surv3[[3]]$psi
+psi_init <- rowMeans(matrix(c(psi_1[,1000],psi_1[,1000],psi_3[,1000]),nrow=2148,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
@@ -191,8 +197,10 @@ prior_mean_beta<- rep(0,p) # p is the number of regression parameters, in case o
 beta_init<- colMeans(matrix(c(Porter_all_male_surv4[[1]]$Beta[,1000],Porter_all_male_surv4[[2]]$Beta[,1000],
                               Porter_all_male_surv4[[3]]$Beta[,1000]),nrow=3,byrow = F))
 # y be the response variable from the data
-psi_init <- colMeans(matrix(c(M%*%Porter_all_male_surv4[[1]]$psi[,1000],M%*%Porter_all_male_surv4[[2]]$psi[,1000],
-                              M%*%Porter_all_male_surv4[[3]]$psi[,1000]),nrow=2148,byrow = F))
+psi_1<-M%*%Porter_all_male_surv4[[1]]$psi
+psi_2<-M%*%Porter_all_male_surv4[[2]]$psi
+psi_3<-M%*%Porter_all_male_surv4[[3]]$psi
+psi_init <- rowMeans(matrix(c(psi_1[,1000],psi_1[,1000],psi_3[,1000]),nrow=2148,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
