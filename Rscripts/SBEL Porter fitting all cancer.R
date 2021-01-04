@@ -105,7 +105,7 @@ wi<-wi_mu/sum(wi_mu) # sum(wi) = 1 and wi>0 constraints
 # fitting BEL Leroux model taking rho= 1
 library(parallel)
 cluster<-makeCluster(3)
-clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
+#clusterEvalQ(cl=cluster,.libPaths("c:/software/Rpackages"))
 clusterEvalQ(cl=cluster,library(BELSpatial))
 clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_init", "tau_init"
                                                                 ,"B","B_plus","q","M","MBM", "wi"))
