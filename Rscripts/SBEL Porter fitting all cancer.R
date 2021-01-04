@@ -78,7 +78,7 @@ library(parallel)
 
 #Checkpoint 1
 #save(Porter_all_male_surv,file="Results/Porter_all_male_surv_1000.RData")
-load("D:/BEL-Survival/Results/Porter_all_male_surv_1000.RData")
+load("Results/Porter_all_male_surv_1000.RData")
 
 # changing initial value from last fit
 # using IG prior(1,1) for tau_inv
