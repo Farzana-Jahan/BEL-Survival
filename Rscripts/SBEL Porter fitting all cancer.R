@@ -91,7 +91,7 @@ beta_init<- colMeans(matrix(c(Porter_all_male_surv[[1]]$Beta[,1000],Porter_all_m
 # y be the response variable from the data
 
 psi_init <- rowMeans(matrix(c(Porter_all_male_surv[[1]]$psi[,1000],Porter_all_male_surv[[2]]$psi[,1000],
-                              Porter_all_male_surv[[3]]$psi[,1000]),nrow=2148,byrow = F))
+                              Porter_all_male_surv[[3]]$psi[,1000]),nrow=q,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
@@ -110,7 +110,7 @@ clusterExport(cl=cluster,varlist = c("y","x","n","p","var","beta_init", "psi_ini
                                                                 ,"B","B_plus","q","M","MBM", "wi"))
 Porter_all_male_surv2<-clusterApply(cl=cluster, x=1:3, function(z){BSHEL(y,x,n,p,q,var,niter=1000,
                                                                         beta_init, psi_init, tau_init,
-                                                                        M,MBM, wi, sd_psi=0.0005, 
+                                                                        M,MBM, wi, sd_psi=0.0001, 
                                                                         sd_beta=0.0001, sd_tau=0.1)})
 #Checkpoint 2
 save(Porter_all_male_surv2,file="Results/Porter_all_male_surv_2000.RData")
@@ -126,7 +126,7 @@ beta_init<- colMeans(matrix(c(Porter_all_male_surv2[[1]]$Beta[,1000],Porter_all_
 # y be the response variable from the data
 
 psi_init <- rowMeans(matrix(c(Porter_all_male_surv2[[1]]$psi[,1000],Porter_all_male_surv2[[2]]$psi[,1000],
-                              Porter_all_male_surv2[[3]]$psi[,1000]),nrow=2148,byrow = F))
+                              Porter_all_male_surv2[[3]]$psi[,1000]),nrow=q,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
@@ -161,7 +161,7 @@ beta_init<- colMeans(matrix(c(Porter_all_male_surv3[[1]]$Beta[,1000],Porter_all_
 # y be the response variable from the data
 
 psi_init <- rowMeans(matrix(c(Porter_all_male_surv3[[1]]$psi[,1000],Porter_all_male_surv3[[2]]$psi[,1000],
-                              Porter_all_male_surv3[[3]]$psi[,1000]),nrow=2148,byrow = F))
+                              Porter_all_male_surv3[[3]]$psi[,1000]),nrow=q,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
@@ -196,7 +196,7 @@ beta_init<- colMeans(matrix(c(Porter_all_male_surv4[[1]]$Beta[,1000],Porter_all_
 # y be the response variable from the data
 
 psi_init <- rowMeans(matrix(c(Porter_all_male_surv4[[1]]$psi[,1000],Porter_all_male_surv4[[2]]$psi[,1000],
-                              Porter_all_male_surv4[[3]]$psi[,1000]),nrow=2148,byrow = F))
+                              Porter_all_male_surv4[[3]]$psi[,1000]),nrow=q,byrow = F))
 var<- all.model.data$sd.all.male^2
 # calculating MELE of Beta, beta_mele
 
